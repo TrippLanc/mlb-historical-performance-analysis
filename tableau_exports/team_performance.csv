@@ -1,0 +1,1319 @@
+year_id,team_name,wins,losses,win_pct,runs_scored,runs_allowed,run_differential,world_series_winner,pennant_winner,division_winner
+2025,Washington Nationals,66,96,0.407,687,899,-212,No,No,No
+2025,Toronto Blue Jays,94,68,0.580,798,721,77,No,Yes,Yes
+2025,Texas Rangers,81,81,0.500,684,605,79,No,No,No
+2025,Tampa Bay Rays,77,85,0.475,714,683,31,No,No,No
+2025,St. Louis Cardinals,78,84,0.481,689,754,-65,No,No,No
+2025,San Francisco Giants,81,81,0.500,705,684,21,No,No,No
+2025,Seattle Mariners,90,72,0.556,766,694,72,No,No,Yes
+2025,San Diego Padres,90,72,0.556,702,621,81,No,No,No
+2025,Pittsburgh Pirates,71,91,0.438,583,645,-62,No,No,No
+2025,Philadelphia Phillies,96,66,0.593,778,648,130,No,No,Yes
+2025,New York Mets,83,79,0.512,766,715,51,No,No,No
+2025,New York Yankees,94,68,0.580,849,685,164,No,No,No
+2025,Minnesota Twins,70,92,0.432,678,773,-95,No,No,No
+2025,Milwaukee Brewers,97,65,0.599,806,634,172,No,No,Yes
+2025,Miami Marlins,79,83,0.488,709,798,-89,No,No,No
+2025,Los Angeles Dodgers,93,69,0.574,825,683,142,Yes,Yes,Yes
+2025,Los Angeles Angels of Anaheim,72,90,0.444,673,837,-164,No,No,No
+2025,Kansas City Royals,82,80,0.506,651,637,14,No,No,No
+2025,Houston Astros,87,75,0.537,686,665,21,No,No,No
+2025,Detroit Tigers,87,75,0.537,758,691,67,No,No,No
+2025,Colorado Rockies,43,119,0.265,597,1021,-424,No,No,No
+2025,Cleveland Guardians,88,74,0.543,643,649,-6,No,No,Yes
+2025,Cincinnati Reds,83,79,0.512,716,681,35,No,No,No
+2025,Chicago Cubs,92,70,0.568,793,649,144,No,No,No
+2025,Chicago White Sox,60,102,0.370,647,742,-95,No,No,No
+2025,Boston Red Sox,89,73,0.549,786,676,110,No,No,No
+2025,Baltimore Orioles,75,87,0.463,677,788,-111,No,No,No
+2025,Atlanta Braves,76,86,0.469,724,734,-10,No,No,No
+2025,Athletics,76,86,0.469,733,817,-84,No,No,No
+2025,Arizona Diamondbacks,80,82,0.494,791,785,6,No,No,No
+2024,Washington Nationals,71,91,0.438,660,764,-104,No,No,No
+2024,Toronto Blue Jays,74,88,0.457,671,743,-72,No,No,No
+2024,Texas Rangers,78,84,0.481,683,738,-55,No,No,No
+2024,Tampa Bay Rays,80,82,0.494,604,663,-59,No,No,No
+2024,St. Louis Cardinals,83,79,0.512,672,719,-47,No,No,No
+2024,San Francisco Giants,80,82,0.494,693,699,-6,No,No,No
+2024,Seattle Mariners,85,77,0.525,676,607,69,No,No,No
+2024,San Diego Padres,93,69,0.574,760,669,91,No,No,No
+2024,Pittsburgh Pirates,76,86,0.469,665,739,-74,No,No,No
+2024,Philadelphia Phillies,95,67,0.586,784,671,113,No,No,Yes
+2024,Oakland Athletics,69,93,0.426,643,764,-121,No,No,No
+2024,New York Mets,89,73,0.549,768,697,71,No,No,No
+2024,New York Yankees,94,68,0.580,815,668,147,No,Yes,Yes
+2024,Minnesota Twins,82,80,0.506,742,735,7,No,No,No
+2024,Milwaukee Brewers,93,69,0.574,777,641,136,No,No,Yes
+2024,Miami Marlins,62,100,0.383,637,841,-204,No,No,No
+2024,Los Angeles Dodgers,98,64,0.605,842,686,156,Yes,Yes,Yes
+2024,Los Angeles Angels of Anaheim,63,99,0.389,635,797,-162,No,No,No
+2024,Kansas City Royals,86,76,0.531,735,644,91,No,No,No
+2024,Houston Astros,88,73,0.547,740,649,91,No,No,Yes
+2024,Detroit Tigers,86,76,0.531,682,642,40,No,No,No
+2024,Colorado Rockies,61,101,0.377,682,929,-247,No,No,No
+2024,Cleveland Guardians,92,69,0.571,708,621,87,No,No,Yes
+2024,Cincinnati Reds,77,85,0.475,699,694,5,No,No,No
+2024,Chicago Cubs,83,79,0.512,736,669,67,No,No,No
+2024,Chicago White Sox,41,121,0.253,507,813,-306,No,No,No
+2024,Boston Red Sox,81,81,0.500,751,747,4,No,No,No
+2024,Baltimore Orioles,91,71,0.562,786,699,87,No,No,No
+2024,Atlanta Braves,89,73,0.549,704,607,97,No,No,No
+2024,Arizona Diamondbacks,89,73,0.549,886,788,98,No,No,No
+2023,Washington Nationals,71,91,0.438,700,845,-145,No,No,No
+2023,Toronto Blue Jays,89,73,0.549,746,671,75,No,No,No
+2023,Texas Rangers,90,72,0.556,881,716,165,Yes,Yes,No
+2023,Tampa Bay Rays,99,63,0.611,860,665,195,No,No,No
+2023,St. Louis Cardinals,71,91,0.438,719,829,-110,No,No,No
+2023,San Francisco Giants,79,83,0.488,674,719,-45,No,No,No
+2023,Seattle Mariners,88,74,0.543,758,659,99,No,No,No
+2023,San Diego Padres,82,80,0.506,752,648,104,No,No,No
+2023,Pittsburgh Pirates,76,86,0.469,692,790,-98,No,No,No
+2023,Philadelphia Phillies,90,72,0.556,796,715,81,No,No,No
+2023,Oakland Athletics,50,112,0.309,585,924,-339,No,No,No
+2023,New York Mets,75,87,0.463,717,729,-12,No,No,No
+2023,New York Yankees,82,80,0.506,673,698,-25,No,No,No
+2023,Minnesota Twins,87,75,0.537,778,659,119,No,No,Yes
+2023,Milwaukee Brewers,92,70,0.568,728,647,81,No,No,Yes
+2023,Miami Marlins,84,78,0.519,666,723,-57,No,No,No
+2023,Los Angeles Dodgers,100,62,0.617,906,699,207,No,No,Yes
+2023,Los Angeles Angels of Anaheim,73,89,0.451,739,829,-90,No,No,No
+2023,Kansas City Royals,56,106,0.346,676,859,-183,No,No,No
+2023,Houston Astros,90,72,0.556,827,698,129,No,No,Yes
+2023,Detroit Tigers,78,84,0.481,661,740,-79,No,No,No
+2023,Colorado Rockies,59,103,0.364,721,957,-236,No,No,No
+2023,Cleveland Guardians,76,86,0.469,662,697,-35,No,No,No
+2023,Cincinnati Reds,82,80,0.506,783,821,-38,No,No,No
+2023,Chicago Cubs,83,79,0.512,819,723,96,No,No,No
+2023,Chicago White Sox,61,101,0.377,641,841,-200,No,No,No
+2023,Boston Red Sox,78,84,0.481,772,776,-4,No,No,No
+2023,Baltimore Orioles,101,61,0.623,807,678,129,No,No,Yes
+2023,Atlanta Braves,104,58,0.642,947,716,231,No,No,Yes
+2023,Arizona Diamondbacks,84,78,0.519,746,761,-15,No,Yes,No
+2022,Washington Nationals,55,107,0.340,603,855,-252,No,No,No
+2022,Toronto Blue Jays,92,70,0.568,775,679,96,No,No,No
+2022,Texas Rangers,68,94,0.420,707,743,-36,No,No,No
+2022,Tampa Bay Rays,86,76,0.531,666,614,52,No,No,No
+2022,St. Louis Cardinals,93,69,0.574,772,637,135,No,No,Yes
+2022,San Francisco Giants,81,81,0.500,716,697,19,No,No,No
+2022,Seattle Mariners,90,72,0.556,690,623,67,No,No,No
+2022,San Diego Padres,89,73,0.549,705,660,45,No,No,No
+2022,Pittsburgh Pirates,62,100,0.383,591,817,-226,No,No,No
+2022,Philadelphia Phillies,87,75,0.537,747,685,62,No,Yes,No
+2022,Oakland Athletics,60,102,0.370,568,770,-202,No,No,No
+2022,New York Mets,101,61,0.623,772,606,166,No,No,No
+2022,New York Yankees,99,63,0.611,807,567,240,No,No,Yes
+2022,Minnesota Twins,78,84,0.481,696,684,12,No,No,No
+2022,Milwaukee Brewers,86,76,0.531,725,688,37,No,No,No
+2022,Miami Marlins,69,93,0.426,586,676,-90,No,No,No
+2022,Los Angeles Dodgers,111,51,0.685,847,513,334,No,No,Yes
+2022,Los Angeles Angels of Anaheim,73,89,0.451,623,668,-45,No,No,No
+2022,Kansas City Royals,65,97,0.401,640,810,-170,No,No,No
+2022,Houston Astros,106,56,0.654,737,518,219,Yes,Yes,Yes
+2022,Detroit Tigers,66,96,0.407,557,713,-156,No,No,No
+2022,Colorado Rockies,68,94,0.420,698,873,-175,No,No,No
+2022,Cleveland Guardians,92,70,0.568,698,634,64,No,No,Yes
+2022,Cincinnati Reds,62,100,0.383,648,815,-167,No,No,No
+2022,Chicago Cubs,74,88,0.457,657,731,-74,No,No,No
+2022,Chicago White Sox,81,81,0.500,686,717,-31,No,No,No
+2022,Boston Red Sox,78,84,0.481,735,787,-52,No,No,No
+2022,Baltimore Orioles,83,79,0.512,674,688,-14,No,No,No
+2022,Atlanta Braves,101,61,0.623,789,609,180,No,No,Yes
+2022,Arizona Diamondbacks,74,88,0.457,702,740,-38,No,No,No
+2021,Washington Nationals,65,97,0.401,724,820,-96,No,No,No
+2021,Toronto Blue Jays,91,71,0.562,846,663,183,No,No,No
+2021,Texas Rangers,60,102,0.370,625,815,-190,No,No,No
+2021,Tampa Bay Rays,100,62,0.617,857,651,206,No,No,Yes
+2021,St. Louis Cardinals,90,72,0.556,706,672,34,No,No,No
+2021,San Francisco Giants,107,55,0.660,804,594,210,No,No,Yes
+2021,Seattle Mariners,90,72,0.556,697,748,-51,No,No,No
+2021,San Diego Padres,79,83,0.488,729,708,21,No,No,No
+2021,Pittsburgh Pirates,61,101,0.377,609,833,-224,No,No,No
+2021,Philadelphia Phillies,82,80,0.506,734,745,-11,No,No,No
+2021,Oakland Athletics,86,76,0.531,743,687,56,No,No,No
+2021,New York Mets,77,85,0.475,636,668,-32,No,No,No
+2021,New York Yankees,92,70,0.568,711,669,42,No,No,No
+2021,Minnesota Twins,73,89,0.451,729,834,-105,No,No,No
+2021,Milwaukee Brewers,95,67,0.586,738,623,115,No,No,Yes
+2021,Miami Marlins,67,95,0.414,623,701,-78,No,No,No
+2021,Los Angeles Dodgers,106,56,0.654,830,561,269,No,No,No
+2021,Los Angeles Angels of Anaheim,77,85,0.475,723,804,-81,No,No,No
+2021,Kansas City Royals,74,88,0.457,686,788,-102,No,No,No
+2021,Houston Astros,95,67,0.586,863,658,205,No,Yes,Yes
+2021,Detroit Tigers,77,85,0.475,697,756,-59,No,No,No
+2021,Colorado Rockies,74,87,0.460,739,796,-57,No,No,No
+2021,Cleveland Indians,80,82,0.494,717,727,-10,No,No,No
+2021,Cincinnati Reds,83,79,0.512,786,760,26,No,No,No
+2021,Chicago Cubs,71,91,0.438,705,839,-134,No,No,No
+2021,Chicago White Sox,93,69,0.574,796,636,160,No,No,Yes
+2021,Boston Red Sox,92,70,0.568,829,749,80,No,No,No
+2021,Baltimore Orioles,52,110,0.321,659,956,-297,No,No,No
+2021,Atlanta Braves,88,73,0.547,790,656,134,Yes,Yes,Yes
+2021,Arizona Diamondbacks,52,110,0.321,679,893,-214,No,No,No
+2020,Washington Nationals,26,34,0.433,293,301,-8,No,No,No
+2020,Toronto Blue Jays,32,28,0.533,302,312,-10,No,No,No
+2020,Texas Rangers,22,38,0.367,224,312,-88,No,No,No
+2020,Tampa Bay Rays,40,20,0.667,289,229,60,No,Yes,Yes
+2020,St. Louis Cardinals,30,28,0.517,240,229,11,No,No,No
+2020,San Francisco Giants,29,31,0.483,299,297,2,No,No,No
+2020,Seattle Mariners,27,33,0.450,254,303,-49,No,No,No
+2020,San Diego Padres,37,23,0.617,325,241,84,No,No,No
+2020,Pittsburgh Pirates,19,41,0.317,219,298,-79,No,No,No
+2020,Philadelphia Phillies,28,32,0.467,306,311,-5,No,No,No
+2020,Oakland Athletics,36,24,0.600,274,232,42,No,No,Yes
+2020,New York Mets,26,34,0.433,286,308,-22,No,No,No
+2020,New York Yankees,33,27,0.550,315,270,45,No,No,No
+2020,Minnesota Twins,36,24,0.600,269,215,54,No,No,Yes
+2020,Milwaukee Brewers,29,31,0.483,247,264,-17,No,No,No
+2020,Miami Marlins,31,29,0.517,263,304,-41,No,No,No
+2020,Los Angeles Dodgers,43,17,0.717,349,213,136,Yes,Yes,Yes
+2020,Los Angeles Angels of Anaheim,26,34,0.433,294,321,-27,No,No,No
+2020,Kansas City Royals,26,34,0.433,248,272,-24,No,No,No
+2020,Houston Astros,29,31,0.483,279,275,4,No,No,No
+2020,Detroit Tigers,23,35,0.397,249,318,-69,No,No,No
+2020,Colorado Rockies,26,34,0.433,275,353,-78,No,No,No
+2020,Cleveland Indians,35,25,0.583,248,209,39,No,No,No
+2020,Cincinnati Reds,31,29,0.517,243,243,0,No,No,No
+2020,Chicago Cubs,34,26,0.567,265,240,25,No,No,Yes
+2020,Chicago White Sox,35,25,0.583,306,246,60,No,No,No
+2020,Boston Red Sox,24,36,0.400,292,351,-59,No,No,No
+2020,Baltimore Orioles,25,35,0.417,274,294,-20,No,No,No
+2020,Atlanta Braves,35,25,0.583,348,288,60,No,No,Yes
+2020,Arizona Diamondbacks,25,35,0.417,269,295,-26,No,No,No
+2019,Washington Nationals,93,69,0.574,873,724,149,Yes,Yes,No
+2019,Toronto Blue Jays,67,95,0.414,726,828,-102,No,No,No
+2019,Texas Rangers,78,84,0.481,810,878,-68,No,No,No
+2019,Tampa Bay Rays,96,66,0.593,769,656,113,No,No,No
+2019,St. Louis Cardinals,91,71,0.562,764,662,102,No,No,Yes
+2019,San Francisco Giants,77,85,0.475,678,773,-95,No,No,No
+2019,Seattle Mariners,68,94,0.420,758,893,-135,No,No,No
+2019,San Diego Padres,70,92,0.432,682,789,-107,No,No,No
+2019,Pittsburgh Pirates,69,93,0.426,758,911,-153,No,No,No
+2019,Philadelphia Phillies,81,81,0.500,774,794,-20,No,No,No
+2019,Oakland Athletics,97,65,0.599,845,680,165,No,No,No
+2019,New York Mets,86,76,0.531,791,737,54,No,No,No
+2019,New York Yankees,103,59,0.636,943,739,204,No,No,Yes
+2019,Minnesota Twins,101,61,0.623,939,754,185,No,No,Yes
+2019,Milwaukee Brewers,89,73,0.549,769,766,3,No,No,No
+2019,Miami Marlins,57,105,0.352,615,808,-193,No,No,No
+2019,Los Angeles Dodgers,106,56,0.654,886,613,273,No,No,Yes
+2019,Los Angeles Angels of Anaheim,72,90,0.444,769,868,-99,No,No,No
+2019,Kansas City Royals,59,103,0.364,691,869,-178,No,No,No
+2019,Houston Astros,107,55,0.660,920,640,280,No,Yes,Yes
+2019,Detroit Tigers,47,114,0.292,582,915,-333,No,No,No
+2019,Colorado Rockies,71,91,0.438,835,958,-123,No,No,No
+2019,Cleveland Indians,93,69,0.574,769,657,112,No,No,No
+2019,Cincinnati Reds,75,87,0.463,701,711,-10,No,No,No
+2019,Chicago Cubs,84,78,0.519,814,717,97,No,No,No
+2019,Chicago White Sox,72,89,0.447,708,832,-124,No,No,No
+2019,Boston Red Sox,84,78,0.519,901,828,73,No,No,No
+2019,Baltimore Orioles,54,108,0.333,729,981,-252,No,No,No
+2019,Atlanta Braves,97,65,0.599,855,743,112,No,No,Yes
+2019,Arizona Diamondbacks,85,77,0.525,813,743,70,No,No,No
+2018,Washington Nationals,82,80,0.506,771,682,89,No,No,No
+2018,Toronto Blue Jays,73,89,0.451,709,832,-123,No,No,No
+2018,Texas Rangers,67,95,0.414,737,848,-111,No,No,No
+2018,Tampa Bay Rays,90,72,0.556,716,646,70,No,No,No
+2018,St. Louis Cardinals,88,74,0.543,759,691,68,No,No,No
+2018,San Francisco Giants,73,89,0.451,603,699,-96,No,No,No
+2018,Seattle Mariners,89,73,0.549,677,711,-34,No,No,No
+2018,San Diego Padres,66,96,0.407,617,767,-150,No,No,No
+2018,Pittsburgh Pirates,82,79,0.509,692,693,-1,No,No,No
+2018,Philadelphia Phillies,80,82,0.494,677,728,-51,No,No,No
+2018,Oakland Athletics,97,65,0.599,813,674,139,No,No,No
+2018,New York Mets,77,85,0.475,676,707,-31,No,No,No
+2018,New York Yankees,100,62,0.617,851,669,182,No,No,No
+2018,Minnesota Twins,78,84,0.481,738,775,-37,No,No,No
+2018,Milwaukee Brewers,96,67,0.589,754,659,95,No,No,Yes
+2018,Miami Marlins,63,98,0.391,589,809,-220,No,No,No
+2018,Los Angeles Dodgers,92,71,0.564,804,610,194,No,Yes,Yes
+2018,Los Angeles Angels of Anaheim,80,82,0.494,721,722,-1,No,No,No
+2018,Kansas City Royals,58,104,0.358,638,833,-195,No,No,No
+2018,Houston Astros,103,59,0.636,797,534,263,No,No,Yes
+2018,Detroit Tigers,64,98,0.395,630,796,-166,No,No,No
+2018,Colorado Rockies,91,72,0.558,780,745,35,No,No,No
+2018,Cleveland Indians,91,71,0.562,818,648,170,No,No,Yes
+2018,Cincinnati Reds,67,95,0.414,696,819,-123,No,No,No
+2018,Chicago Cubs,95,68,0.583,761,645,116,No,No,No
+2018,Chicago White Sox,62,100,0.383,656,848,-192,No,No,No
+2018,Boston Red Sox,108,54,0.667,876,647,229,Yes,Yes,Yes
+2018,Baltimore Orioles,47,115,0.290,622,892,-270,No,No,No
+2018,Atlanta Braves,90,72,0.556,759,657,102,No,No,Yes
+2018,Arizona Diamondbacks,82,80,0.506,693,644,49,No,No,No
+2017,Washington Nationals,97,65,0.599,819,672,147,No,No,Yes
+2017,Toronto Blue Jays,76,86,0.469,693,784,-91,No,No,No
+2017,Texas Rangers,78,84,0.481,799,816,-17,No,No,No
+2017,Tampa Bay Rays,80,82,0.494,694,704,-10,No,No,No
+2017,St. Louis Cardinals,83,79,0.512,761,705,56,No,No,No
+2017,San Francisco Giants,64,98,0.395,639,776,-137,No,No,No
+2017,Seattle Mariners,78,84,0.481,750,772,-22,No,No,No
+2017,San Diego Padres,71,91,0.438,604,816,-212,No,No,No
+2017,Pittsburgh Pirates,75,87,0.463,668,731,-63,No,No,No
+2017,Philadelphia Phillies,66,96,0.407,690,782,-92,No,No,No
+2017,Oakland Athletics,75,87,0.463,739,826,-87,No,No,No
+2017,New York Mets,70,92,0.432,735,863,-128,No,No,No
+2017,New York Yankees,91,71,0.562,858,660,198,No,No,No
+2017,Minnesota Twins,85,77,0.525,815,788,27,No,No,No
+2017,Milwaukee Brewers,86,76,0.531,732,697,35,No,No,No
+2017,Miami Marlins,77,85,0.475,778,822,-44,No,No,No
+2017,Los Angeles Dodgers,104,58,0.642,770,580,190,No,Yes,Yes
+2017,Los Angeles Angels of Anaheim,80,82,0.494,710,709,1,No,No,No
+2017,Kansas City Royals,80,82,0.494,702,791,-89,No,No,No
+2017,Houston Astros,101,61,0.623,896,700,196,Yes,Yes,Yes
+2017,Detroit Tigers,64,98,0.395,735,894,-159,No,No,No
+2017,Colorado Rockies,87,75,0.537,824,757,67,No,No,No
+2017,Cleveland Indians,102,60,0.630,818,564,254,No,No,Yes
+2017,Cincinnati Reds,68,94,0.420,753,869,-116,No,No,No
+2017,Chicago Cubs,92,70,0.568,822,695,127,No,No,Yes
+2017,Chicago White Sox,67,95,0.414,706,820,-114,No,No,No
+2017,Boston Red Sox,93,69,0.574,785,668,117,No,No,Yes
+2017,Baltimore Orioles,75,87,0.463,743,841,-98,No,No,No
+2017,Atlanta Braves,72,90,0.444,732,821,-89,No,No,No
+2017,Arizona Diamondbacks,93,69,0.574,812,659,153,No,No,No
+2016,Washington Nationals,95,67,0.586,763,612,151,No,No,Yes
+2016,Toronto Blue Jays,89,73,0.549,759,666,93,No,No,No
+2016,Texas Rangers,95,67,0.586,765,757,8,No,No,Yes
+2016,Tampa Bay Rays,68,94,0.420,672,713,-41,No,No,No
+2016,St. Louis Cardinals,86,76,0.531,779,712,67,No,No,No
+2016,San Francisco Giants,87,75,0.537,715,631,84,No,No,No
+2016,Seattle Mariners,86,76,0.531,768,707,61,No,No,No
+2016,San Diego Padres,68,94,0.420,686,770,-84,No,No,No
+2016,Pittsburgh Pirates,78,83,0.484,729,758,-29,No,No,No
+2016,Philadelphia Phillies,71,91,0.438,610,796,-186,No,No,No
+2016,Oakland Athletics,69,93,0.426,653,761,-108,No,No,No
+2016,New York Mets,87,75,0.537,671,617,54,No,No,No
+2016,New York Yankees,84,78,0.519,680,702,-22,No,No,No
+2016,Minnesota Twins,59,103,0.364,722,889,-167,No,No,No
+2016,Milwaukee Brewers,73,89,0.451,671,733,-62,No,No,No
+2016,Miami Marlins,79,82,0.491,655,682,-27,No,No,No
+2016,Los Angeles Dodgers,91,71,0.562,725,638,87,No,No,Yes
+2016,Los Angeles Angels of Anaheim,74,88,0.457,717,727,-10,No,No,No
+2016,Kansas City Royals,81,81,0.500,675,712,-37,No,No,No
+2016,Houston Astros,84,78,0.519,724,701,23,No,No,No
+2016,Detroit Tigers,86,75,0.534,750,721,29,No,No,No
+2016,Colorado Rockies,75,87,0.463,845,860,-15,No,No,No
+2016,Cleveland Indians,94,67,0.584,777,676,101,No,Yes,Yes
+2016,Cincinnati Reds,68,94,0.420,716,854,-138,No,No,No
+2016,Chicago Cubs,103,58,0.640,808,556,252,Yes,Yes,Yes
+2016,Chicago White Sox,78,84,0.481,686,715,-29,No,No,No
+2016,Boston Red Sox,93,69,0.574,878,694,184,No,No,Yes
+2016,Baltimore Orioles,89,73,0.549,744,715,29,No,No,No
+2016,Atlanta Braves,68,93,0.422,649,779,-130,No,No,No
+2016,Arizona Diamondbacks,69,93,0.426,752,890,-138,No,No,No
+2015,Washington Nationals,83,79,0.512,703,635,68,No,No,No
+2015,Toronto Blue Jays,93,69,0.574,891,670,221,No,No,Yes
+2015,Texas Rangers,88,74,0.543,751,733,18,No,No,Yes
+2015,Tampa Bay Rays,80,82,0.494,644,642,2,No,No,No
+2015,St. Louis Cardinals,100,62,0.617,647,525,122,No,No,Yes
+2015,San Francisco Giants,84,78,0.519,696,627,69,No,No,No
+2015,Seattle Mariners,76,86,0.469,656,726,-70,No,No,No
+2015,San Diego Padres,74,88,0.457,650,731,-81,No,No,No
+2015,Pittsburgh Pirates,98,64,0.605,697,596,101,No,No,No
+2015,Philadelphia Phillies,63,99,0.389,626,809,-183,No,No,No
+2015,Oakland Athletics,68,94,0.420,694,729,-35,No,No,No
+2015,New York Mets,90,72,0.556,683,613,70,No,Yes,Yes
+2015,New York Yankees,87,75,0.537,764,698,66,No,No,No
+2015,Minnesota Twins,83,79,0.512,696,700,-4,No,No,No
+2015,Milwaukee Brewers,68,94,0.420,655,737,-82,No,No,No
+2015,Miami Marlins,71,91,0.438,613,678,-65,No,No,No
+2015,Los Angeles Dodgers,92,70,0.568,667,595,72,No,No,Yes
+2015,Los Angeles Angels of Anaheim,85,77,0.525,661,675,-14,No,No,No
+2015,Kansas City Royals,95,67,0.586,724,641,83,Yes,Yes,Yes
+2015,Houston Astros,86,76,0.531,729,618,111,No,No,No
+2015,Detroit Tigers,74,87,0.460,689,803,-114,No,No,No
+2015,Colorado Rockies,68,94,0.420,737,844,-107,No,No,No
+2015,Cleveland Indians,81,80,0.503,669,640,29,No,No,No
+2015,Cincinnati Reds,64,98,0.395,640,754,-114,No,No,No
+2015,Chicago Cubs,97,65,0.599,689,608,81,No,No,No
+2015,Chicago White Sox,76,86,0.469,622,701,-79,No,No,No
+2015,Boston Red Sox,78,84,0.481,748,753,-5,No,No,No
+2015,Baltimore Orioles,81,81,0.500,713,693,20,No,No,No
+2015,Atlanta Braves,67,95,0.414,573,760,-187,No,No,No
+2015,Arizona Diamondbacks,79,83,0.488,720,713,7,No,No,No
+2014,Washington Nationals,96,66,0.593,686,555,131,No,No,Yes
+2014,Toronto Blue Jays,83,79,0.512,723,686,37,No,No,No
+2014,Texas Rangers,67,95,0.414,637,773,-136,No,No,No
+2014,Tampa Bay Rays,77,85,0.475,612,625,-13,No,No,No
+2014,St. Louis Cardinals,90,72,0.556,619,603,16,No,No,Yes
+2014,San Francisco Giants,88,74,0.543,665,614,51,Yes,Yes,No
+2014,Seattle Mariners,87,75,0.537,634,554,80,No,No,No
+2014,San Diego Padres,77,85,0.475,535,577,-42,No,No,No
+2014,Pittsburgh Pirates,88,74,0.543,682,631,51,No,No,No
+2014,Philadelphia Phillies,73,89,0.451,619,687,-68,No,No,No
+2014,Oakland Athletics,88,74,0.543,729,572,157,No,No,No
+2014,New York Mets,79,83,0.488,629,618,11,No,No,No
+2014,New York Yankees,84,78,0.519,633,664,-31,No,No,No
+2014,Minnesota Twins,70,92,0.432,715,777,-62,No,No,No
+2014,Milwaukee Brewers,82,80,0.506,650,657,-7,No,No,No
+2014,Miami Marlins,77,85,0.475,645,674,-29,No,No,No
+2014,Los Angeles Dodgers,94,68,0.580,718,617,101,No,No,Yes
+2014,Los Angeles Angels of Anaheim,98,64,0.605,773,630,143,No,No,Yes
+2014,Kansas City Royals,89,73,0.549,651,624,27,No,Yes,No
+2014,Houston Astros,70,92,0.432,629,723,-94,No,No,No
+2014,Detroit Tigers,90,72,0.556,757,705,52,No,No,Yes
+2014,Colorado Rockies,66,96,0.407,755,818,-63,No,No,No
+2014,Cleveland Indians,85,77,0.525,669,653,16,No,No,No
+2014,Arizona Diamondbacks,64,98,0.395,615,742,-127,No,No,No
+2014,Atlanta Braves,79,83,0.488,573,597,-24,No,No,No
+2014,Baltimore Orioles,96,66,0.593,705,593,112,No,No,Yes
+2014,Boston Red Sox,71,91,0.438,634,715,-81,No,No,No
+2014,Chicago White Sox,73,89,0.451,660,758,-98,No,No,No
+2014,Chicago Cubs,73,89,0.451,614,707,-93,No,No,No
+2014,Cincinnati Reds,76,86,0.469,595,612,-17,No,No,No
+2013,Arizona Diamondbacks,81,81,0.500,685,695,-10,No,No,No
+2013,Atlanta Braves,96,66,0.593,688,548,140,No,No,Yes
+2013,Baltimore Orioles,85,77,0.525,745,709,36,No,No,No
+2013,Boston Red Sox,97,65,0.599,853,656,197,Yes,Yes,Yes
+2013,Chicago White Sox,63,99,0.389,598,723,-125,No,No,No
+2013,Chicago Cubs,66,96,0.407,602,689,-87,No,No,No
+2013,Cincinnati Reds,90,72,0.556,698,589,109,No,No,No
+2013,Cleveland Indians,92,70,0.568,745,662,83,No,No,No
+2013,Colorado Rockies,74,88,0.457,706,760,-54,No,No,No
+2013,Detroit Tigers,93,69,0.574,796,624,172,No,No,Yes
+2013,Houston Astros,51,111,0.315,610,848,-238,No,No,No
+2013,Kansas City Royals,86,76,0.531,648,601,47,No,No,No
+2013,Los Angeles Angels of Anaheim,78,84,0.481,733,737,-4,No,No,No
+2013,Los Angeles Dodgers,92,70,0.568,649,582,67,No,No,Yes
+2013,Miami Marlins,62,100,0.383,513,646,-133,No,No,No
+2013,Milwaukee Brewers,74,88,0.457,640,687,-47,No,No,No
+2013,Minnesota Twins,66,96,0.407,614,788,-174,No,No,No
+2013,New York Yankees,85,77,0.525,650,671,-21,No,No,No
+2013,New York Mets,74,88,0.457,619,684,-65,No,No,No
+2013,Oakland Athletics,96,66,0.593,767,625,142,No,No,Yes
+2013,Philadelphia Phillies,73,89,0.451,610,749,-139,No,No,No
+2013,Pittsburgh Pirates,94,68,0.580,634,577,57,No,No,No
+2013,San Diego Padres,76,86,0.469,618,700,-82,No,No,No
+2013,Seattle Mariners,71,91,0.438,624,754,-130,No,No,No
+2013,San Francisco Giants,76,86,0.469,629,691,-62,No,No,No
+2013,St. Louis Cardinals,97,65,0.599,783,596,187,No,Yes,Yes
+2013,Tampa Bay Rays,92,71,0.564,700,646,54,No,No,No
+2013,Texas Rangers,91,72,0.558,730,636,94,No,No,No
+2013,Toronto Blue Jays,74,88,0.457,712,756,-44,No,No,No
+2013,Washington Nationals,86,76,0.531,656,626,30,No,No,No
+2012,Arizona Diamondbacks,81,81,0.500,734,688,46,No,No,No
+2012,Atlanta Braves,94,68,0.580,700,600,100,No,No,No
+2012,Baltimore Orioles,93,69,0.574,712,705,7,No,No,No
+2012,Boston Red Sox,69,93,0.426,734,806,-72,No,No,No
+2012,Chicago White Sox,85,77,0.525,748,676,72,No,No,No
+2012,Chicago Cubs,61,101,0.377,613,759,-146,No,No,No
+2012,Cincinnati Reds,97,65,0.599,669,588,81,No,No,Yes
+2012,Cleveland Indians,68,94,0.420,667,845,-178,No,No,No
+2012,Colorado Rockies,64,98,0.395,758,890,-132,No,No,No
+2012,Detroit Tigers,88,74,0.543,726,670,56,No,Yes,Yes
+2012,Houston Astros,55,107,0.340,583,794,-211,No,No,No
+2012,Kansas City Royals,72,90,0.444,676,746,-70,No,No,No
+2012,Los Angeles Angels of Anaheim,89,73,0.549,767,699,68,No,No,No
+2012,Los Angeles Dodgers,86,76,0.531,637,597,40,No,No,No
+2012,Miami Marlins,69,93,0.426,609,724,-115,No,No,No
+2012,Milwaukee Brewers,83,79,0.512,776,733,43,No,No,No
+2012,Minnesota Twins,66,96,0.407,701,832,-131,No,No,No
+2012,New York Yankees,95,67,0.586,804,668,136,No,No,Yes
+2012,New York Mets,74,88,0.457,650,709,-59,No,No,No
+2012,Oakland Athletics,94,68,0.580,713,614,99,No,No,Yes
+2012,Philadelphia Phillies,81,81,0.500,684,680,4,No,No,No
+2012,Pittsburgh Pirates,79,83,0.488,651,674,-23,No,No,No
+2012,San Diego Padres,76,86,0.469,651,710,-59,No,No,No
+2012,Seattle Mariners,75,87,0.463,619,651,-32,No,No,No
+2012,San Francisco Giants,94,68,0.580,718,649,69,Yes,Yes,Yes
+2012,St. Louis Cardinals,88,74,0.543,765,648,117,No,No,No
+2012,Tampa Bay Rays,90,72,0.556,697,577,120,No,No,No
+2012,Texas Rangers,93,69,0.574,808,707,101,No,No,No
+2012,Toronto Blue Jays,73,89,0.451,716,784,-68,No,No,No
+2012,Washington Nationals,98,64,0.605,731,594,137,No,No,Yes
+2011,Arizona Diamondbacks,94,68,0.580,731,662,69,No,No,Yes
+2011,Atlanta Braves,89,73,0.549,641,605,36,No,No,No
+2011,Baltimore Orioles,69,93,0.426,708,860,-152,No,No,No
+2011,Boston Red Sox,90,72,0.556,875,737,138,No,No,No
+2011,Chicago White Sox,79,83,0.488,654,706,-52,No,No,No
+2011,Chicago Cubs,71,91,0.438,654,756,-102,No,No,No
+2011,Cincinnati Reds,79,83,0.488,735,720,15,No,No,No
+2011,Cleveland Indians,80,82,0.494,704,760,-56,No,No,No
+2011,Colorado Rockies,73,89,0.451,735,774,-39,No,No,No
+2011,Detroit Tigers,95,67,0.586,787,711,76,No,No,Yes
+2011,Florida Marlins,72,90,0.444,625,702,-77,No,No,No
+2011,Houston Astros,56,106,0.346,615,796,-181,No,No,No
+2011,Kansas City Royals,71,91,0.438,730,762,-32,No,No,No
+2011,Los Angeles Angels of Anaheim,86,76,0.531,667,633,34,No,No,No
+2011,Los Angeles Dodgers,82,79,0.509,644,612,32,No,No,No
+2011,Milwaukee Brewers,96,66,0.593,721,638,83,No,No,Yes
+2011,Minnesota Twins,63,99,0.389,619,804,-185,No,No,No
+2011,New York Yankees,97,65,0.599,867,657,210,No,No,Yes
+2011,New York Mets,77,85,0.475,718,742,-24,No,No,No
+2011,Oakland Athletics,74,88,0.457,645,679,-34,No,No,No
+2011,Philadelphia Phillies,102,60,0.630,713,529,184,No,No,Yes
+2011,Pittsburgh Pirates,72,90,0.444,610,712,-102,No,No,No
+2011,San Diego Padres,71,91,0.438,593,611,-18,No,No,No
+2011,Seattle Mariners,67,95,0.414,556,675,-119,No,No,No
+2011,San Francisco Giants,86,76,0.531,570,578,-8,No,No,No
+2011,St. Louis Cardinals,90,72,0.556,762,692,70,Yes,Yes,No
+2011,Tampa Bay Rays,91,71,0.562,707,614,93,No,No,No
+2011,Texas Rangers,96,66,0.593,855,677,178,No,Yes,Yes
+2011,Toronto Blue Jays,81,81,0.500,743,761,-18,No,No,No
+2011,Washington Nationals,80,81,0.497,624,643,-19,No,No,No
+2010,Arizona Diamondbacks,65,97,0.401,713,836,-123,No,No,No
+2010,Atlanta Braves,91,71,0.562,738,629,109,No,No,No
+2010,Baltimore Orioles,66,96,0.407,613,785,-172,No,No,No
+2010,Boston Red Sox,89,73,0.549,818,744,74,No,No,No
+2010,Chicago White Sox,88,74,0.543,752,704,48,No,No,No
+2010,Chicago Cubs,75,87,0.463,685,767,-82,No,No,No
+2010,Cincinnati Reds,91,71,0.562,790,685,105,No,No,Yes
+2010,Cleveland Indians,69,93,0.426,646,752,-106,No,No,No
+2010,Colorado Rockies,83,79,0.512,770,717,53,No,No,No
+2010,Detroit Tigers,81,81,0.500,751,743,8,No,No,No
+2010,Florida Marlins,80,82,0.494,719,717,2,No,No,No
+2010,Houston Astros,76,86,0.469,611,729,-118,No,No,No
+2010,Kansas City Royals,67,95,0.414,676,845,-169,No,No,No
+2010,Los Angeles Angels of Anaheim,80,82,0.494,681,702,-21,No,No,No
+2010,Los Angeles Dodgers,80,82,0.494,667,692,-25,No,No,No
+2010,Milwaukee Brewers,77,85,0.475,750,804,-54,No,No,No
+2010,Minnesota Twins,94,68,0.580,781,671,110,No,No,Yes
+2010,New York Yankees,95,67,0.586,859,693,166,No,No,No
+2010,New York Mets,79,83,0.488,656,652,4,No,No,No
+2010,Oakland Athletics,81,81,0.500,663,626,37,No,No,No
+2010,Philadelphia Phillies,97,65,0.599,772,640,132,No,No,Yes
+2010,Pittsburgh Pirates,57,105,0.352,587,866,-279,No,No,No
+2010,San Diego Padres,90,72,0.556,665,581,84,No,No,No
+2010,Seattle Mariners,61,101,0.377,513,698,-185,No,No,No
+2010,San Francisco Giants,92,70,0.568,697,583,114,Yes,Yes,Yes
+2010,St. Louis Cardinals,86,76,0.531,736,641,95,No,No,No
+2010,Tampa Bay Rays,96,66,0.593,802,649,153,No,No,Yes
+2010,Texas Rangers,90,72,0.556,787,687,100,No,Yes,Yes
+2010,Toronto Blue Jays,85,77,0.525,755,728,27,No,No,No
+2010,Washington Nationals,69,93,0.426,655,742,-87,No,No,No
+2009,Arizona Diamondbacks,70,92,0.432,720,782,-62,No,No,No
+2009,Atlanta Braves,86,76,0.531,735,641,94,No,No,No
+2009,Baltimore Orioles,64,98,0.395,741,876,-135,No,No,No
+2009,Boston Red Sox,95,67,0.586,872,736,136,No,No,No
+2009,Chicago White Sox,79,83,0.488,724,732,-8,No,No,No
+2009,Chicago Cubs,83,78,0.516,707,672,35,No,No,No
+2009,Cincinnati Reds,78,84,0.481,673,723,-50,No,No,No
+2009,Cleveland Indians,65,97,0.401,773,865,-92,No,No,No
+2009,Colorado Rockies,92,70,0.568,804,715,89,No,No,No
+2009,Detroit Tigers,86,77,0.528,743,745,-2,No,No,No
+2009,Florida Marlins,87,75,0.537,772,766,6,No,No,No
+2009,Houston Astros,74,88,0.457,643,770,-127,No,No,No
+2009,Kansas City Royals,65,97,0.401,686,842,-156,No,No,No
+2009,Los Angeles Angels of Anaheim,97,65,0.599,883,761,122,No,No,Yes
+2009,Los Angeles Dodgers,95,67,0.586,780,611,169,No,No,Yes
+2009,Milwaukee Brewers,80,82,0.494,785,818,-33,No,No,No
+2009,Minnesota Twins,87,76,0.534,817,765,52,No,No,Yes
+2009,New York Yankees,103,59,0.636,915,753,162,Yes,Yes,Yes
+2009,New York Mets,70,92,0.432,671,757,-86,No,No,No
+2009,Oakland Athletics,75,87,0.463,759,761,-2,No,No,No
+2009,Philadelphia Phillies,93,69,0.574,820,709,111,No,Yes,Yes
+2009,Pittsburgh Pirates,62,99,0.385,636,768,-132,No,No,No
+2009,San Diego Padres,75,87,0.463,638,769,-131,No,No,No
+2009,Seattle Mariners,85,77,0.525,640,692,-52,No,No,No
+2009,San Francisco Giants,88,74,0.543,657,611,46,No,No,No
+2009,St. Louis Cardinals,91,71,0.562,730,640,90,No,No,Yes
+2009,Tampa Bay Rays,84,78,0.519,803,754,49,No,No,No
+2009,Texas Rangers,87,75,0.537,784,740,44,No,No,No
+2009,Toronto Blue Jays,75,87,0.463,798,771,27,No,No,No
+2009,Washington Nationals,59,103,0.364,710,874,-164,No,No,No
+2008,Arizona Diamondbacks,82,80,0.506,720,706,14,No,No,No
+2008,Atlanta Braves,72,90,0.444,753,778,-25,No,No,No
+2008,Baltimore Orioles,68,93,0.422,782,869,-87,No,No,No
+2008,Boston Red Sox,95,67,0.586,845,694,151,No,No,No
+2008,Chicago White Sox,89,74,0.546,811,729,82,No,No,Yes
+2008,Chicago Cubs,97,64,0.602,855,671,184,No,No,Yes
+2008,Cincinnati Reds,74,88,0.457,704,800,-96,No,No,No
+2008,Cleveland Indians,81,81,0.500,805,761,44,No,No,No
+2008,Colorado Rockies,74,88,0.457,747,822,-75,No,No,No
+2008,Detroit Tigers,74,88,0.457,821,857,-36,No,No,No
+2008,Florida Marlins,84,77,0.522,770,767,3,No,No,No
+2008,Houston Astros,86,75,0.534,712,743,-31,No,No,No
+2008,Kansas City Royals,75,87,0.463,691,781,-90,No,No,No
+2008,Los Angeles Angels of Anaheim,100,62,0.617,765,697,68,No,No,Yes
+2008,Los Angeles Dodgers,84,78,0.519,700,648,52,No,No,Yes
+2008,Milwaukee Brewers,90,72,0.556,750,689,61,No,No,No
+2008,Minnesota Twins,88,75,0.540,829,745,84,No,No,No
+2008,New York Yankees,89,73,0.549,789,727,62,No,No,No
+2008,New York Mets,89,73,0.549,799,715,84,No,No,No
+2008,Oakland Athletics,75,86,0.466,646,690,-44,No,No,No
+2008,Philadelphia Phillies,92,70,0.568,799,680,119,Yes,Yes,Yes
+2008,Pittsburgh Pirates,67,95,0.414,735,884,-149,No,No,No
+2008,San Diego Padres,63,99,0.389,637,764,-127,No,No,No
+2008,Seattle Mariners,61,101,0.377,671,811,-140,No,No,No
+2008,San Francisco Giants,72,90,0.444,640,759,-119,No,No,No
+2008,St. Louis Cardinals,86,76,0.531,779,725,54,No,No,No
+2008,Tampa Bay Rays,97,65,0.599,774,671,103,No,Yes,Yes
+2008,Texas Rangers,79,83,0.488,901,967,-66,No,No,No
+2008,Toronto Blue Jays,86,76,0.531,714,610,104,No,No,No
+2008,Washington Nationals,59,102,0.366,641,825,-184,No,No,No
+2007,Arizona Diamondbacks,90,72,0.556,712,732,-20,No,No,Yes
+2007,Atlanta Braves,84,78,0.519,810,733,77,No,No,No
+2007,Baltimore Orioles,69,93,0.426,756,868,-112,No,No,No
+2007,Boston Red Sox,96,66,0.593,867,657,210,Yes,Yes,Yes
+2007,Chicago White Sox,72,90,0.444,693,839,-146,No,No,No
+2007,Chicago Cubs,85,77,0.525,752,690,62,No,No,Yes
+2007,Cincinnati Reds,72,90,0.444,783,853,-70,No,No,No
+2007,Cleveland Indians,96,66,0.593,811,704,107,No,No,Yes
+2007,Colorado Rockies,90,73,0.552,860,758,102,No,Yes,No
+2007,Detroit Tigers,88,74,0.543,887,797,90,No,No,No
+2007,Florida Marlins,71,91,0.438,790,891,-101,No,No,No
+2007,Houston Astros,73,89,0.451,723,813,-90,No,No,No
+2007,Kansas City Royals,69,93,0.426,706,778,-72,No,No,No
+2007,Los Angeles Angels of Anaheim,94,68,0.580,822,731,91,No,No,Yes
+2007,Los Angeles Dodgers,82,80,0.506,735,727,8,No,No,No
+2007,Milwaukee Brewers,83,79,0.512,801,776,25,No,No,No
+2007,Minnesota Twins,79,83,0.488,718,725,-7,No,No,No
+2007,New York Yankees,94,68,0.580,968,777,191,No,No,No
+2007,New York Mets,88,74,0.543,804,750,54,No,No,No
+2007,Oakland Athletics,76,86,0.469,741,758,-17,No,No,No
+2007,Philadelphia Phillies,89,73,0.549,892,821,71,No,No,Yes
+2007,Pittsburgh Pirates,68,94,0.420,724,846,-122,No,No,No
+2007,San Diego Padres,89,74,0.546,741,666,75,No,No,No
+2007,Seattle Mariners,88,74,0.543,794,813,-19,No,No,No
+2007,San Francisco Giants,71,91,0.438,683,720,-37,No,No,No
+2007,St. Louis Cardinals,78,84,0.481,725,829,-104,No,No,No
+2007,Tampa Bay Devil Rays,66,96,0.407,782,944,-162,No,No,No
+2007,Texas Rangers,75,87,0.463,816,844,-28,No,No,No
+2007,Toronto Blue Jays,83,79,0.512,753,699,54,No,No,No
+2007,Washington Nationals,73,89,0.451,673,783,-110,No,No,No
+2006,Arizona Diamondbacks,76,86,0.469,773,788,-15,No,No,No
+2006,Atlanta Braves,79,83,0.488,849,805,44,No,No,No
+2006,Baltimore Orioles,70,92,0.432,768,899,-131,No,No,No
+2006,Boston Red Sox,86,76,0.531,820,825,-5,No,No,No
+2006,Chicago White Sox,90,72,0.556,868,794,74,No,No,No
+2006,Chicago Cubs,66,96,0.407,716,834,-118,No,No,No
+2006,Cincinnati Reds,80,82,0.494,749,801,-52,No,No,No
+2006,Cleveland Indians,78,84,0.481,870,782,88,No,No,No
+2006,Colorado Rockies,76,86,0.469,813,812,1,No,No,No
+2006,Detroit Tigers,95,67,0.586,822,675,147,No,Yes,No
+2006,Florida Marlins,78,84,0.481,758,772,-14,No,No,No
+2006,Houston Astros,82,80,0.506,735,719,16,No,No,No
+2006,Kansas City Royals,62,100,0.383,757,971,-214,No,No,No
+2006,Los Angeles Angels of Anaheim,89,73,0.549,766,732,34,No,No,No
+2006,Los Angeles Dodgers,88,74,0.543,820,751,69,No,No,No
+2006,Milwaukee Brewers,75,87,0.463,730,833,-103,No,No,No
+2006,Minnesota Twins,96,66,0.593,801,683,118,No,No,Yes
+2006,New York Yankees,97,65,0.599,930,767,163,No,No,Yes
+2006,New York Mets,97,65,0.599,834,731,103,No,No,Yes
+2006,Oakland Athletics,93,69,0.574,771,727,44,No,No,Yes
+2006,Philadelphia Phillies,85,77,0.525,865,812,53,No,No,No
+2006,Pittsburgh Pirates,67,95,0.414,691,797,-106,No,No,No
+2006,San Diego Padres,88,74,0.543,731,679,52,No,No,Yes
+2006,Seattle Mariners,78,84,0.481,756,792,-36,No,No,No
+2006,San Francisco Giants,76,85,0.472,746,790,-44,No,No,No
+2006,St. Louis Cardinals,83,78,0.516,781,762,19,Yes,Yes,Yes
+2006,Tampa Bay Devil Rays,61,101,0.377,689,856,-167,No,No,No
+2006,Texas Rangers,80,82,0.494,835,784,51,No,No,No
+2006,Toronto Blue Jays,87,75,0.537,809,754,55,No,No,No
+2006,Washington Nationals,71,91,0.438,746,872,-126,No,No,No
+2005,Arizona Diamondbacks,77,85,0.475,696,856,-160,No,No,No
+2005,Atlanta Braves,90,72,0.556,769,674,95,No,No,Yes
+2005,Baltimore Orioles,74,88,0.457,729,800,-71,No,No,No
+2005,Boston Red Sox,95,67,0.586,910,805,105,No,No,No
+2005,Chicago White Sox,99,63,0.611,741,645,96,Yes,Yes,Yes
+2005,Chicago Cubs,79,83,0.488,703,714,-11,No,No,No
+2005,Cincinnati Reds,73,89,0.451,820,889,-69,No,No,No
+2005,Cleveland Indians,93,69,0.574,790,642,148,No,No,No
+2005,Colorado Rockies,67,95,0.414,740,862,-122,No,No,No
+2005,Detroit Tigers,71,91,0.438,723,787,-64,No,No,No
+2005,Florida Marlins,83,79,0.512,717,732,-15,No,No,No
+2005,Houston Astros,89,73,0.549,693,609,84,No,Yes,No
+2005,Kansas City Royals,56,106,0.346,701,935,-234,No,No,No
+2005,Los Angeles Angels of Anaheim,95,67,0.586,761,643,118,No,No,Yes
+2005,Los Angeles Dodgers,71,91,0.438,685,755,-70,No,No,No
+2005,Milwaukee Brewers,81,81,0.500,726,697,29,No,No,No
+2005,Minnesota Twins,83,79,0.512,688,662,26,No,No,No
+2005,New York Yankees,95,67,0.586,886,789,97,No,No,Yes
+2005,New York Mets,83,79,0.512,722,648,74,No,No,No
+2005,Oakland Athletics,88,74,0.543,772,658,114,No,No,No
+2005,Philadelphia Phillies,88,74,0.543,807,726,81,No,No,No
+2005,Pittsburgh Pirates,67,95,0.414,680,769,-89,No,No,No
+2005,San Diego Padres,82,80,0.506,684,726,-42,No,No,Yes
+2005,Seattle Mariners,69,93,0.426,699,751,-52,No,No,No
+2005,San Francisco Giants,75,87,0.463,649,745,-96,No,No,No
+2005,St. Louis Cardinals,100,62,0.617,805,634,171,No,No,Yes
+2005,Tampa Bay Devil Rays,67,95,0.414,750,936,-186,No,No,No
+2005,Texas Rangers,79,83,0.488,865,858,7,No,No,No
+2005,Toronto Blue Jays,80,82,0.494,775,705,70,No,No,No
+2005,Washington Nationals,81,81,0.500,639,673,-34,No,No,No
+2004,Anaheim Angels,92,70,0.568,836,734,102,No,No,Yes
+2004,Arizona Diamondbacks,51,111,0.315,615,899,-284,No,No,No
+2004,Atlanta Braves,96,66,0.593,803,668,135,No,No,Yes
+2004,Baltimore Orioles,78,84,0.481,842,830,12,No,No,No
+2004,Boston Red Sox,98,64,0.605,949,768,181,Yes,Yes,No
+2004,Chicago White Sox,83,79,0.512,865,831,34,No,No,No
+2004,Chicago Cubs,89,73,0.549,789,665,124,No,No,No
+2004,Cincinnati Reds,76,86,0.469,750,907,-157,No,No,No
+2004,Cleveland Indians,80,82,0.494,858,857,1,No,No,No
+2004,Colorado Rockies,68,94,0.420,833,923,-90,No,No,No
+2004,Detroit Tigers,72,90,0.444,827,844,-17,No,No,No
+2004,Florida Marlins,83,79,0.512,718,700,18,No,No,No
+2004,Houston Astros,92,70,0.568,803,698,105,No,No,No
+2004,Kansas City Royals,58,104,0.358,720,905,-185,No,No,No
+2004,Los Angeles Dodgers,93,69,0.574,761,684,77,No,No,Yes
+2004,Milwaukee Brewers,67,94,0.416,634,757,-123,No,No,No
+2004,Minnesota Twins,92,70,0.568,780,715,65,No,No,Yes
+2004,Montreal Expos,67,95,0.414,635,769,-134,No,No,No
+2004,New York Yankees,101,61,0.623,897,808,89,No,No,Yes
+2004,New York Mets,71,91,0.438,684,731,-47,No,No,No
+2004,Oakland Athletics,91,71,0.562,793,742,51,No,No,No
+2004,Philadelphia Phillies,86,76,0.531,840,781,59,No,No,No
+2004,Pittsburgh Pirates,72,89,0.447,680,744,-64,No,No,No
+2004,San Diego Padres,87,75,0.537,768,705,63,No,No,No
+2004,Seattle Mariners,63,99,0.389,698,823,-125,No,No,No
+2004,San Francisco Giants,91,71,0.562,850,770,80,No,No,No
+2004,St. Louis Cardinals,105,57,0.648,855,659,196,No,Yes,Yes
+2004,Tampa Bay Devil Rays,70,91,0.435,714,842,-128,No,No,No
+2004,Texas Rangers,89,73,0.549,860,794,66,No,No,No
+2004,Toronto Blue Jays,67,94,0.416,719,823,-104,No,No,No
+2003,Anaheim Angels,77,85,0.475,736,743,-7,No,No,No
+2003,Arizona Diamondbacks,84,78,0.519,717,685,32,No,No,No
+2003,Atlanta Braves,101,61,0.623,907,740,167,No,No,Yes
+2003,Baltimore Orioles,71,91,0.438,743,820,-77,No,No,No
+2003,Boston Red Sox,95,67,0.586,961,809,152,No,No,No
+2003,Chicago White Sox,86,76,0.531,791,715,76,No,No,No
+2003,Chicago Cubs,88,74,0.543,724,683,41,No,No,Yes
+2003,Cincinnati Reds,69,93,0.426,694,886,-192,No,No,No
+2003,Cleveland Indians,68,94,0.420,699,778,-79,No,No,No
+2003,Colorado Rockies,74,88,0.457,853,892,-39,No,No,No
+2003,Detroit Tigers,43,119,0.265,591,928,-337,No,No,No
+2003,Florida Marlins,91,71,0.562,751,692,59,Yes,Yes,No
+2003,Houston Astros,87,75,0.537,805,677,128,No,No,No
+2003,Kansas City Royals,83,79,0.512,836,867,-31,No,No,No
+2003,Los Angeles Dodgers,85,77,0.525,574,556,18,No,No,No
+2003,Milwaukee Brewers,68,94,0.420,714,873,-159,No,No,No
+2003,Minnesota Twins,90,72,0.556,801,758,43,No,No,Yes
+2003,Montreal Expos,83,79,0.512,711,716,-5,No,No,No
+2003,New York Yankees,101,61,0.623,877,716,161,No,Yes,Yes
+2003,New York Mets,66,95,0.410,642,754,-112,No,No,No
+2003,Oakland Athletics,96,66,0.593,768,643,125,No,No,Yes
+2003,Philadelphia Phillies,86,76,0.531,791,697,94,No,No,No
+2003,Pittsburgh Pirates,75,87,0.463,753,801,-48,No,No,No
+2003,San Diego Padres,64,98,0.395,678,831,-153,No,No,No
+2003,Seattle Mariners,93,69,0.574,795,637,158,No,No,No
+2003,San Francisco Giants,100,61,0.621,755,638,117,No,No,Yes
+2003,St. Louis Cardinals,85,77,0.525,876,796,80,No,No,No
+2003,Tampa Bay Devil Rays,63,99,0.389,715,852,-137,No,No,No
+2003,Texas Rangers,71,91,0.438,826,969,-143,No,No,No
+2003,Toronto Blue Jays,86,76,0.531,894,826,68,No,No,No
+2002,Anaheim Angels,99,63,0.611,851,644,207,Yes,Yes,No
+2002,Arizona Diamondbacks,98,64,0.605,819,674,145,No,No,Yes
+2002,Atlanta Braves,101,59,0.631,708,565,143,No,No,Yes
+2002,Baltimore Orioles,67,95,0.414,667,773,-106,No,No,No
+2002,Boston Red Sox,93,69,0.574,859,665,194,No,No,No
+2002,Chicago White Sox,81,81,0.500,856,798,58,No,No,No
+2002,Chicago Cubs,67,95,0.414,706,759,-53,No,No,No
+2002,Cincinnati Reds,78,84,0.481,709,774,-65,No,No,No
+2002,Cleveland Indians,74,88,0.457,739,837,-98,No,No,No
+2002,Colorado Rockies,73,89,0.451,778,898,-120,No,No,No
+2002,Detroit Tigers,55,106,0.342,575,864,-289,No,No,No
+2002,Florida Marlins,79,83,0.488,699,763,-64,No,No,No
+2002,Houston Astros,84,78,0.519,749,695,54,No,No,No
+2002,Kansas City Royals,62,100,0.383,737,891,-154,No,No,No
+2002,Los Angeles Dodgers,92,70,0.568,713,643,70,No,No,No
+2002,Milwaukee Brewers,56,106,0.346,627,821,-194,No,No,No
+2002,Minnesota Twins,94,67,0.584,768,712,56,No,No,Yes
+2002,Montreal Expos,83,79,0.512,735,718,17,No,No,No
+2002,New York Yankees,103,58,0.640,897,697,200,No,No,Yes
+2002,New York Mets,75,86,0.466,690,703,-13,No,No,No
+2002,Oakland Athletics,103,59,0.636,800,654,146,No,No,Yes
+2002,Philadelphia Phillies,80,81,0.497,710,724,-14,No,No,No
+2002,Pittsburgh Pirates,72,89,0.447,641,730,-89,No,No,No
+2002,San Diego Padres,66,96,0.407,662,815,-153,No,No,No
+2002,Seattle Mariners,93,69,0.574,814,699,115,No,No,No
+2002,San Francisco Giants,95,66,0.590,783,616,167,No,Yes,No
+2002,St. Louis Cardinals,97,65,0.599,787,648,139,No,No,Yes
+2002,Tampa Bay Devil Rays,55,106,0.342,673,918,-245,No,No,No
+2002,Texas Rangers,72,90,0.444,843,882,-39,No,No,No
+2002,Toronto Blue Jays,78,84,0.481,813,828,-15,No,No,No
+2001,Anaheim Angels,75,87,0.463,691,730,-39,No,No,No
+2001,Arizona Diamondbacks,92,70,0.568,818,677,141,Yes,Yes,Yes
+2001,Atlanta Braves,88,74,0.543,729,643,86,No,No,Yes
+2001,Baltimore Orioles,63,98,0.391,687,829,-142,No,No,No
+2001,Boston Red Sox,82,79,0.509,772,745,27,No,No,No
+2001,Chicago White Sox,83,79,0.512,798,795,3,No,No,No
+2001,Chicago Cubs,88,74,0.543,777,701,76,No,No,No
+2001,Cincinnati Reds,66,96,0.407,735,850,-115,No,No,No
+2001,Cleveland Indians,91,71,0.562,897,821,76,No,No,Yes
+2001,Colorado Rockies,73,89,0.451,923,906,17,No,No,No
+2001,Detroit Tigers,66,96,0.407,724,876,-152,No,No,No
+2001,Florida Marlins,76,86,0.469,742,744,-2,No,No,No
+2001,Houston Astros,93,69,0.574,847,769,78,No,No,Yes
+2001,Kansas City Royals,65,97,0.401,729,858,-129,No,No,No
+2001,Los Angeles Dodgers,86,76,0.531,758,744,14,No,No,No
+2001,Milwaukee Brewers,68,94,0.420,740,806,-66,No,No,No
+2001,Minnesota Twins,85,77,0.525,771,766,5,No,No,No
+2001,Montreal Expos,68,94,0.420,670,812,-142,No,No,No
+2001,New York Yankees,95,65,0.594,804,713,91,No,Yes,Yes
+2001,New York Mets,82,80,0.506,642,713,-71,No,No,No
+2001,Oakland Athletics,102,60,0.630,884,645,239,No,No,No
+2001,Philadelphia Phillies,86,76,0.531,746,719,27,No,No,No
+2001,Pittsburgh Pirates,62,100,0.383,657,858,-201,No,No,No
+2001,San Diego Padres,79,83,0.488,789,812,-23,No,No,No
+2001,Seattle Mariners,116,46,0.716,927,627,300,No,No,Yes
+2001,San Francisco Giants,90,72,0.556,799,748,51,No,No,No
+2001,St. Louis Cardinals,93,69,0.574,814,684,130,No,No,No
+2001,Tampa Bay Devil Rays,62,100,0.383,672,887,-215,No,No,No
+2001,Texas Rangers,73,89,0.451,890,968,-78,No,No,No
+2001,Toronto Blue Jays,80,82,0.494,767,753,14,No,No,No
+2000,Anaheim Angels,82,80,0.506,864,869,-5,No,No,No
+2000,Arizona Diamondbacks,85,77,0.525,792,754,38,No,No,No
+2000,Atlanta Braves,95,67,0.586,810,714,96,No,No,Yes
+2000,Baltimore Orioles,74,88,0.457,794,913,-119,No,No,No
+2000,Boston Red Sox,85,77,0.525,792,745,47,No,No,No
+2000,Chicago White Sox,95,67,0.586,978,839,139,No,No,Yes
+2000,Chicago Cubs,65,97,0.401,764,904,-140,No,No,No
+2000,Cincinnati Reds,85,77,0.525,825,765,60,No,No,No
+2000,Cleveland Indians,90,72,0.556,950,816,134,No,No,No
+2000,Colorado Rockies,82,80,0.506,968,897,71,No,No,No
+2000,Detroit Tigers,79,83,0.488,823,827,-4,No,No,No
+2000,Florida Marlins,79,82,0.491,731,797,-66,No,No,No
+2000,Houston Astros,72,90,0.444,938,944,-6,No,No,No
+2000,Kansas City Royals,77,85,0.475,879,930,-51,No,No,No
+2000,Los Angeles Dodgers,86,76,0.531,798,729,69,No,No,No
+2000,Milwaukee Brewers,73,89,0.451,740,826,-86,No,No,No
+2000,Minnesota Twins,69,93,0.426,748,880,-132,No,No,No
+2000,Montreal Expos,67,95,0.414,738,902,-164,No,No,No
+2000,New York Yankees,87,74,0.540,871,814,57,Yes,Yes,Yes
+2000,New York Mets,94,68,0.580,807,738,69,No,Yes,No
+2000,Oakland Athletics,91,70,0.565,947,813,134,No,No,Yes
+2000,Philadelphia Phillies,65,97,0.401,708,830,-122,No,No,No
+2000,Pittsburgh Pirates,69,93,0.426,793,888,-95,No,No,No
+2000,San Diego Padres,76,86,0.469,752,815,-63,No,No,No
+2000,Seattle Mariners,91,71,0.562,907,780,127,No,No,No
+2000,San Francisco Giants,97,65,0.599,925,747,178,No,No,Yes
+2000,St. Louis Cardinals,95,67,0.586,887,771,116,No,No,Yes
+2000,Tampa Bay Devil Rays,69,92,0.429,733,842,-109,No,No,No
+2000,Texas Rangers,71,91,0.438,848,974,-126,No,No,No
+2000,Toronto Blue Jays,83,79,0.512,861,908,-47,No,No,No
+1999,Anaheim Angels,70,92,0.432,711,826,-115,No,No,No
+1999,Arizona Diamondbacks,100,62,0.617,908,676,232,No,No,Yes
+1999,Atlanta Braves,103,59,0.636,840,661,179,No,Yes,Yes
+1999,Baltimore Orioles,78,84,0.481,851,815,36,No,No,No
+1999,Boston Red Sox,94,68,0.580,836,718,118,No,No,No
+1999,Chicago White Sox,75,86,0.466,777,870,-93,No,No,No
+1999,Chicago Cubs,67,95,0.414,747,920,-173,No,No,No
+1999,Cincinnati Reds,96,67,0.589,865,711,154,No,No,No
+1999,Cleveland Indians,97,65,0.599,1009,860,149,No,No,Yes
+1999,Colorado Rockies,72,90,0.444,906,1028,-122,No,No,No
+1999,Detroit Tigers,69,92,0.429,747,882,-135,No,No,No
+1999,Florida Marlins,64,98,0.395,691,852,-161,No,No,No
+1999,Houston Astros,97,65,0.599,823,675,148,No,No,Yes
+1999,Kansas City Royals,64,97,0.398,856,921,-65,No,No,No
+1999,Los Angeles Dodgers,77,85,0.475,793,787,6,No,No,No
+1999,Milwaukee Brewers,74,87,0.460,815,886,-71,No,No,No
+1999,Minnesota Twins,63,97,0.394,686,845,-159,No,No,No
+1999,Montreal Expos,68,94,0.420,718,853,-135,No,No,No
+1999,New York Yankees,98,64,0.605,900,731,169,Yes,Yes,Yes
+1999,New York Mets,97,66,0.595,853,711,142,No,No,No
+1999,Oakland Athletics,87,75,0.537,893,846,47,No,No,No
+1999,Philadelphia Phillies,77,85,0.475,841,846,-5,No,No,No
+1999,Pittsburgh Pirates,78,83,0.484,775,782,-7,No,No,No
+1999,San Diego Padres,74,88,0.457,710,781,-71,No,No,No
+1999,Seattle Mariners,79,83,0.488,859,905,-46,No,No,No
+1999,San Francisco Giants,86,76,0.531,872,831,41,No,No,No
+1999,St. Louis Cardinals,75,86,0.466,809,838,-29,No,No,No
+1999,Tampa Bay Devil Rays,69,93,0.426,772,913,-141,No,No,No
+1999,Texas Rangers,95,67,0.586,945,859,86,No,No,Yes
+1999,Toronto Blue Jays,84,78,0.519,883,862,21,No,No,No
+1998,Anaheim Angels,85,77,0.525,787,783,4,No,No,No
+1998,Arizona Diamondbacks,65,97,0.401,665,812,-147,No,No,No
+1998,Atlanta Braves,106,56,0.654,826,581,245,No,No,Yes
+1998,Baltimore Orioles,79,83,0.488,817,785,32,No,No,No
+1998,Boston Red Sox,92,70,0.568,876,729,147,No,No,No
+1998,Chicago White Sox,80,82,0.494,861,931,-70,No,No,No
+1998,Chicago Cubs,90,73,0.552,831,792,39,No,No,No
+1998,Cincinnati Reds,77,85,0.475,750,760,-10,No,No,No
+1998,Cleveland Indians,89,73,0.549,850,779,71,No,No,Yes
+1998,Colorado Rockies,77,85,0.475,826,855,-29,No,No,No
+1998,Detroit Tigers,65,97,0.401,722,863,-141,No,No,No
+1998,Florida Marlins,54,108,0.333,667,923,-256,No,No,No
+1998,Houston Astros,102,60,0.630,874,620,254,No,No,Yes
+1998,Kansas City Royals,72,89,0.447,714,899,-185,No,No,No
+1998,Los Angeles Dodgers,83,79,0.512,669,678,-9,No,No,No
+1998,Milwaukee Brewers,74,88,0.457,707,812,-105,No,No,No
+1998,Minnesota Twins,70,92,0.432,734,818,-84,No,No,No
+1998,Montreal Expos,65,97,0.401,644,783,-139,No,No,No
+1998,New York Yankees,114,48,0.704,965,656,309,Yes,Yes,Yes
+1998,New York Mets,88,74,0.543,706,645,61,No,No,No
+1998,Oakland Athletics,74,88,0.457,804,866,-62,No,No,No
+1998,Philadelphia Phillies,75,87,0.463,713,808,-95,No,No,No
+1998,Pittsburgh Pirates,69,93,0.426,650,718,-68,No,No,No
+1998,San Diego Padres,98,64,0.605,749,635,114,No,Yes,Yes
+1998,Seattle Mariners,76,85,0.472,859,855,4,No,No,No
+1998,San Francisco Giants,89,74,0.546,845,739,106,No,No,No
+1998,St. Louis Cardinals,83,79,0.512,810,782,28,No,No,No
+1998,Tampa Bay Devil Rays,63,99,0.389,620,751,-131,No,No,No
+1998,Texas Rangers,88,74,0.543,940,871,69,No,No,Yes
+1998,Toronto Blue Jays,88,74,0.543,816,768,48,No,No,No
+1997,Anaheim Angels,84,78,0.519,829,794,35,No,No,No
+1997,Atlanta Braves,101,61,0.623,791,581,210,No,No,Yes
+1997,Baltimore Orioles,98,64,0.605,812,681,131,No,No,Yes
+1997,Boston Red Sox,78,84,0.481,851,857,-6,No,No,No
+1997,Chicago White Sox,80,81,0.497,779,833,-54,No,No,No
+1997,Chicago Cubs,68,94,0.420,687,759,-72,No,No,No
+1997,Cincinnati Reds,76,86,0.469,651,764,-113,No,No,No
+1997,Cleveland Indians,86,75,0.534,868,815,53,No,Yes,Yes
+1997,Colorado Rockies,83,79,0.512,923,908,15,No,No,No
+1997,Detroit Tigers,79,83,0.488,784,790,-6,No,No,No
+1997,Florida Marlins,92,70,0.568,740,669,71,Yes,Yes,No
+1997,Houston Astros,84,78,0.519,777,660,117,No,No,Yes
+1997,Kansas City Royals,67,94,0.416,747,820,-73,No,No,No
+1997,Los Angeles Dodgers,88,74,0.543,742,645,97,No,No,No
+1997,Minnesota Twins,68,94,0.420,772,861,-89,No,No,No
+1997,Milwaukee Brewers,78,83,0.484,681,742,-61,No,No,No
+1997,Montreal Expos,78,84,0.481,691,740,-49,No,No,No
+1997,New York Yankees,96,66,0.593,891,688,203,No,No,No
+1997,New York Mets,88,74,0.543,777,709,68,No,No,No
+1997,Oakland Athletics,65,97,0.401,764,946,-182,No,No,No
+1997,Philadelphia Phillies,68,94,0.420,668,840,-172,No,No,No
+1997,Pittsburgh Pirates,79,83,0.488,725,760,-35,No,No,No
+1997,San Diego Padres,76,86,0.469,795,891,-96,No,No,No
+1997,Seattle Mariners,90,72,0.556,925,833,92,No,No,Yes
+1997,San Francisco Giants,90,72,0.556,784,793,-9,No,No,Yes
+1997,St. Louis Cardinals,73,89,0.451,689,708,-19,No,No,No
+1997,Texas Rangers,77,85,0.475,807,823,-16,No,No,No
+1997,Toronto Blue Jays,76,86,0.469,654,694,-40,No,No,No
+1996,Atlanta Braves,96,66,0.593,773,648,125,No,Yes,Yes
+1996,Baltimore Orioles,88,74,0.543,949,903,46,No,No,No
+1996,Boston Red Sox,85,77,0.525,928,921,7,No,No,No
+1996,California Angels,70,91,0.435,762,943,-181,No,No,No
+1996,Chicago White Sox,85,77,0.525,898,794,104,No,No,No
+1996,Chicago Cubs,76,86,0.469,772,771,1,No,No,No
+1996,Cincinnati Reds,81,81,0.500,778,773,5,No,No,No
+1996,Cleveland Indians,99,62,0.615,952,769,183,No,No,Yes
+1996,Colorado Rockies,83,79,0.512,961,964,-3,No,No,No
+1996,Detroit Tigers,53,109,0.327,783,1103,-320,No,No,No
+1996,Florida Marlins,80,82,0.494,688,703,-15,No,No,No
+1996,Houston Astros,82,80,0.506,753,792,-39,No,No,No
+1996,Kansas City Royals,75,86,0.466,746,786,-40,No,No,No
+1996,Los Angeles Dodgers,90,72,0.556,703,652,51,No,No,No
+1996,Minnesota Twins,78,84,0.481,877,900,-23,No,No,No
+1996,Milwaukee Brewers,80,82,0.494,894,899,-5,No,No,No
+1996,Montreal Expos,88,74,0.543,741,668,73,No,No,No
+1996,New York Yankees,92,70,0.568,871,787,84,Yes,Yes,Yes
+1996,New York Mets,71,91,0.438,746,779,-33,No,No,No
+1996,Oakland Athletics,78,84,0.481,861,900,-39,No,No,No
+1996,Philadelphia Phillies,67,95,0.414,650,790,-140,No,No,No
+1996,Pittsburgh Pirates,73,89,0.451,776,833,-57,No,No,No
+1996,San Diego Padres,91,71,0.562,771,682,89,No,No,Yes
+1996,Seattle Mariners,85,76,0.528,993,895,98,No,No,No
+1996,San Francisco Giants,68,94,0.420,752,862,-110,No,No,No
+1996,St. Louis Cardinals,88,74,0.543,759,706,53,No,No,Yes
+1996,Texas Rangers,90,72,0.556,928,799,129,No,No,Yes
+1996,Toronto Blue Jays,74,88,0.457,766,809,-43,No,No,No
+1995,Atlanta Braves,90,54,0.625,645,540,105,Yes,Yes,Yes
+1995,Baltimore Orioles,71,73,0.493,704,640,64,No,No,No
+1995,Boston Red Sox,86,58,0.597,791,698,93,No,No,Yes
+1995,California Angels,78,67,0.538,801,697,104,No,No,No
+1995,Chicago White Sox,68,76,0.472,755,758,-3,No,No,No
+1995,Chicago Cubs,73,71,0.507,693,671,22,No,No,No
+1995,Cincinnati Reds,85,59,0.590,747,623,124,No,No,Yes
+1995,Cleveland Indians,100,44,0.694,840,607,233,No,Yes,Yes
+1995,Colorado Rockies,77,67,0.535,785,783,2,No,No,No
+1995,Detroit Tigers,60,84,0.417,654,844,-190,No,No,No
+1995,Florida Marlins,67,76,0.469,673,673,0,No,No,No
+1995,Houston Astros,76,68,0.528,747,674,73,No,No,No
+1995,Kansas City Royals,70,74,0.486,629,691,-62,No,No,No
+1995,Los Angeles Dodgers,78,66,0.542,634,609,25,No,No,Yes
+1995,Minnesota Twins,56,88,0.389,703,889,-186,No,No,No
+1995,Milwaukee Brewers,65,79,0.451,740,747,-7,No,No,No
+1995,Montreal Expos,66,78,0.458,621,638,-17,No,No,No
+1995,New York Yankees,79,65,0.549,749,688,61,No,No,No
+1995,New York Mets,69,75,0.479,657,618,39,No,No,No
+1995,Oakland Athletics,67,77,0.465,730,761,-31,No,No,No
+1995,Philadelphia Phillies,69,75,0.479,615,658,-43,No,No,No
+1995,Pittsburgh Pirates,58,86,0.403,629,736,-107,No,No,No
+1995,San Diego Padres,70,74,0.486,668,672,-4,No,No,No
+1995,Seattle Mariners,79,66,0.545,796,708,88,No,No,Yes
+1995,San Francisco Giants,67,77,0.465,652,776,-124,No,No,No
+1995,St. Louis Cardinals,62,81,0.434,563,658,-95,No,No,No
+1995,Texas Rangers,74,70,0.514,691,720,-29,No,No,No
+1995,Toronto Blue Jays,56,88,0.389,642,777,-135,No,No,No
+1994,Atlanta Braves,68,46,0.596,542,448,94,No,No,No
+1994,Baltimore Orioles,63,49,0.563,589,497,92,No,No,No
+1994,Boston Red Sox,54,61,0.470,552,621,-69,No,No,No
+1994,California Angels,47,68,0.409,543,660,-117,No,No,No
+1994,Chicago White Sox,67,46,0.593,633,498,135,No,No,No
+1994,Chicago Cubs,49,64,0.434,500,549,-49,No,No,No
+1994,Cincinnati Reds,66,48,0.579,609,490,119,No,No,No
+1994,Cleveland Indians,66,47,0.584,679,562,117,No,No,No
+1994,Colorado Rockies,53,64,0.453,573,638,-65,No,No,No
+1994,Detroit Tigers,53,62,0.461,652,671,-19,No,No,No
+1994,Florida Marlins,51,64,0.443,468,576,-108,No,No,No
+1994,Houston Astros,66,49,0.574,602,503,99,No,No,No
+1994,Kansas City Royals,64,51,0.557,574,532,42,No,No,No
+1994,Los Angeles Dodgers,58,56,0.509,532,509,23,No,No,No
+1994,Minnesota Twins,53,60,0.469,594,688,-94,No,No,No
+1994,Milwaukee Brewers,53,62,0.461,547,586,-39,No,No,No
+1994,Montreal Expos,74,40,0.649,585,454,131,No,No,No
+1994,New York Yankees,70,43,0.619,670,534,136,No,No,No
+1994,New York Mets,55,58,0.487,506,526,-20,No,No,No
+1994,Oakland Athletics,51,63,0.447,549,589,-40,No,No,No
+1994,Philadelphia Phillies,54,61,0.470,521,497,24,No,No,No
+1994,Pittsburgh Pirates,53,61,0.465,466,580,-114,No,No,No
+1994,San Diego Padres,47,70,0.402,479,531,-52,No,No,No
+1994,Seattle Mariners,49,63,0.438,569,616,-47,No,No,No
+1994,San Francisco Giants,55,60,0.478,504,500,4,No,No,No
+1994,St. Louis Cardinals,53,61,0.465,535,621,-86,No,No,No
+1994,Texas Rangers,52,62,0.456,613,697,-84,No,No,No
+1994,Toronto Blue Jays,55,60,0.478,566,579,-13,No,No,No
+1993,Atlanta Braves,104,58,0.642,767,559,208,No,No,Yes
+1993,Baltimore Orioles,85,77,0.525,786,745,41,No,No,No
+1993,Boston Red Sox,80,82,0.494,686,698,-12,No,No,No
+1993,California Angels,71,91,0.438,684,770,-86,No,No,No
+1993,Chicago White Sox,94,68,0.580,776,664,112,No,No,Yes
+1993,Chicago Cubs,84,78,0.519,738,739,-1,No,No,No
+1993,Cincinnati Reds,73,89,0.451,722,785,-63,No,No,No
+1993,Cleveland Indians,76,86,0.469,790,813,-23,No,No,No
+1993,Colorado Rockies,67,95,0.414,758,967,-209,No,No,No
+1993,Detroit Tigers,85,77,0.525,899,837,62,No,No,No
+1993,Florida Marlins,64,98,0.395,581,724,-143,No,No,No
+1993,Houston Astros,85,77,0.525,716,630,86,No,No,No
+1993,Kansas City Royals,84,78,0.519,675,694,-19,No,No,No
+1993,Los Angeles Dodgers,81,81,0.500,675,662,13,No,No,No
+1993,Minnesota Twins,71,91,0.438,693,830,-137,No,No,No
+1993,Milwaukee Brewers,69,93,0.426,733,792,-59,No,No,No
+1993,Montreal Expos,94,68,0.580,732,682,50,No,No,No
+1993,New York Yankees,88,74,0.543,821,761,60,No,No,No
+1993,New York Mets,59,103,0.364,672,744,-72,No,No,No
+1993,Oakland Athletics,68,94,0.420,715,846,-131,No,No,No
+1993,Philadelphia Phillies,97,65,0.599,877,740,137,No,Yes,Yes
+1993,Pittsburgh Pirates,75,87,0.463,707,806,-99,No,No,No
+1993,San Diego Padres,61,101,0.377,679,772,-93,No,No,No
+1993,Seattle Mariners,82,80,0.506,734,731,3,No,No,No
+1993,San Francisco Giants,103,59,0.636,808,636,172,No,No,No
+1993,St. Louis Cardinals,87,75,0.537,758,744,14,No,No,No
+1993,Texas Rangers,86,76,0.531,835,751,84,No,No,No
+1993,Toronto Blue Jays,95,67,0.586,847,742,105,Yes,Yes,Yes
+1992,Atlanta Braves,98,64,0.605,682,569,113,No,Yes,Yes
+1992,Baltimore Orioles,89,73,0.549,705,656,49,No,No,No
+1992,Boston Red Sox,73,89,0.451,599,669,-70,No,No,No
+1992,California Angels,72,90,0.444,579,671,-92,No,No,No
+1992,Chicago White Sox,86,76,0.531,738,690,48,No,No,No
+1992,Chicago Cubs,78,84,0.481,593,624,-31,No,No,No
+1992,Cincinnati Reds,90,72,0.556,660,609,51,No,No,No
+1992,Cleveland Indians,76,86,0.469,674,746,-72,No,No,No
+1992,Detroit Tigers,75,87,0.463,791,794,-3,No,No,No
+1992,Houston Astros,81,81,0.500,608,668,-60,No,No,No
+1992,Kansas City Royals,72,90,0.444,610,667,-57,No,No,No
+1992,Los Angeles Dodgers,63,99,0.389,548,636,-88,No,No,No
+1992,Minnesota Twins,90,72,0.556,747,653,94,No,No,No
+1992,Milwaukee Brewers,92,70,0.568,740,604,136,No,No,No
+1992,Montreal Expos,87,75,0.537,648,581,67,No,No,No
+1992,New York Yankees,76,86,0.469,733,746,-13,No,No,No
+1992,New York Mets,72,90,0.444,599,653,-54,No,No,No
+1992,Oakland Athletics,96,66,0.593,745,672,73,No,No,Yes
+1992,Philadelphia Phillies,70,92,0.432,686,717,-31,No,No,No
+1992,Pittsburgh Pirates,96,66,0.593,693,595,98,No,No,Yes
+1992,San Diego Padres,82,80,0.506,617,636,-19,No,No,No
+1992,Seattle Mariners,64,98,0.395,679,799,-120,No,No,No
+1992,San Francisco Giants,72,90,0.444,574,647,-73,No,No,No
+1992,St. Louis Cardinals,83,79,0.512,631,604,27,No,No,No
+1992,Texas Rangers,77,85,0.475,682,753,-71,No,No,No
+1992,Toronto Blue Jays,96,66,0.593,780,682,98,Yes,Yes,Yes
+1991,Atlanta Braves,94,68,0.580,749,644,105,No,Yes,Yes
+1991,Baltimore Orioles,67,95,0.414,686,796,-110,No,No,No
+1991,Boston Red Sox,84,78,0.519,731,712,19,No,No,No
+1991,California Angels,81,81,0.500,653,649,4,No,No,No
+1991,Chicago White Sox,87,75,0.537,758,681,77,No,No,No
+1991,Chicago Cubs,77,83,0.481,695,734,-39,No,No,No
+1991,Cincinnati Reds,74,88,0.457,689,691,-2,No,No,No
+1991,Cleveland Indians,57,105,0.352,576,759,-183,No,No,No
+1991,Detroit Tigers,84,78,0.519,817,794,23,No,No,No
+1991,Houston Astros,65,97,0.401,605,717,-112,No,No,No
+1991,Kansas City Royals,82,80,0.506,727,722,5,No,No,No
+1991,Los Angeles Dodgers,93,69,0.574,665,565,100,No,No,No
+1991,Minnesota Twins,95,67,0.586,776,652,124,Yes,Yes,Yes
+1991,Milwaukee Brewers,83,79,0.512,799,744,55,No,No,No
+1991,Montreal Expos,71,90,0.441,579,655,-76,No,No,No
+1991,New York Yankees,71,91,0.438,674,777,-103,No,No,No
+1991,New York Mets,77,84,0.478,640,646,-6,No,No,No
+1991,Oakland Athletics,84,78,0.519,760,776,-16,No,No,No
+1991,Philadelphia Phillies,78,84,0.481,629,680,-51,No,No,No
+1991,Pittsburgh Pirates,98,64,0.605,768,632,136,No,No,Yes
+1991,San Diego Padres,84,78,0.519,636,646,-10,No,No,No
+1991,Seattle Mariners,83,79,0.512,702,674,28,No,No,No
+1991,San Francisco Giants,75,87,0.463,649,697,-48,No,No,No
+1991,St. Louis Cardinals,84,78,0.519,651,648,3,No,No,No
+1991,Texas Rangers,85,77,0.525,829,814,15,No,No,No
+1991,Toronto Blue Jays,91,71,0.562,684,622,62,No,No,Yes
+1990,Atlanta Braves,65,97,0.401,682,821,-139,No,No,No
+1990,Baltimore Orioles,76,85,0.472,669,698,-29,No,No,No
+1990,Boston Red Sox,88,74,0.543,699,664,35,No,No,Yes
+1990,California Angels,80,82,0.494,690,706,-16,No,No,No
+1990,Chicago White Sox,94,68,0.580,682,633,49,No,No,No
+1990,Chicago Cubs,77,85,0.475,690,774,-84,No,No,No
+1990,Cincinnati Reds,91,71,0.562,693,597,96,Yes,Yes,Yes
+1990,Cleveland Indians,77,85,0.475,732,737,-5,No,No,No
+1990,Detroit Tigers,79,83,0.488,750,754,-4,No,No,No
+1990,Houston Astros,75,87,0.463,573,656,-83,No,No,No
+1990,Kansas City Royals,75,86,0.466,707,709,-2,No,No,No
+1990,Los Angeles Dodgers,86,76,0.531,728,685,43,No,No,No
+1990,Minnesota Twins,74,88,0.457,666,729,-63,No,No,No
+1990,Milwaukee Brewers,74,88,0.457,732,760,-28,No,No,No
+1990,Montreal Expos,85,77,0.525,662,598,64,No,No,No
+1990,New York Yankees,67,95,0.414,603,749,-146,No,No,No
+1990,New York Mets,91,71,0.562,775,613,162,No,No,No
+1990,Oakland Athletics,103,59,0.636,733,570,163,No,Yes,Yes
+1990,Philadelphia Phillies,77,85,0.475,646,729,-83,No,No,No
+1990,Pittsburgh Pirates,95,67,0.586,733,619,114,No,No,Yes
+1990,San Diego Padres,75,87,0.463,673,673,0,No,No,No
+1990,Seattle Mariners,77,85,0.475,640,680,-40,No,No,No
+1990,San Francisco Giants,85,77,0.525,719,710,9,No,No,No
+1990,St. Louis Cardinals,70,92,0.432,599,698,-99,No,No,No
+1990,Texas Rangers,83,79,0.512,676,696,-20,No,No,No
+1990,Toronto Blue Jays,86,76,0.531,767,661,106,No,No,No
+1989,Atlanta Braves,63,97,0.394,584,680,-96,No,No,No
+1989,Baltimore Orioles,87,75,0.537,708,686,22,No,No,No
+1989,Boston Red Sox,83,79,0.512,774,735,39,No,No,No
+1989,California Angels,91,71,0.562,669,578,91,No,No,No
+1989,Chicago White Sox,69,92,0.429,693,750,-57,No,No,No
+1989,Chicago Cubs,93,69,0.574,702,623,79,No,No,Yes
+1989,Cincinnati Reds,75,87,0.463,632,691,-59,No,No,No
+1989,Cleveland Indians,73,89,0.451,604,654,-50,No,No,No
+1989,Detroit Tigers,59,103,0.364,617,816,-199,No,No,No
+1989,Houston Astros,86,76,0.531,647,669,-22,No,No,No
+1989,Kansas City Royals,92,70,0.568,690,635,55,No,No,No
+1989,Los Angeles Dodgers,77,83,0.481,554,536,18,No,No,No
+1989,Minnesota Twins,80,82,0.494,740,738,2,No,No,No
+1989,Milwaukee Brewers,81,81,0.500,707,679,28,No,No,No
+1989,Montreal Expos,81,81,0.500,632,630,2,No,No,No
+1989,New York Yankees,74,87,0.460,698,792,-94,No,No,No
+1989,New York Mets,87,75,0.537,683,595,88,No,No,No
+1989,Oakland Athletics,99,63,0.611,712,576,136,Yes,Yes,Yes
+1989,Philadelphia Phillies,67,95,0.414,629,735,-106,No,No,No
+1989,Pittsburgh Pirates,74,88,0.457,637,680,-43,No,No,No
+1989,San Diego Padres,89,73,0.549,642,626,16,No,No,No
+1989,Seattle Mariners,73,89,0.451,694,728,-34,No,No,No
+1989,San Francisco Giants,92,70,0.568,699,600,99,No,Yes,Yes
+1989,St. Louis Cardinals,86,76,0.531,632,608,24,No,No,No
+1989,Texas Rangers,83,79,0.512,695,714,-19,No,No,No
+1989,Toronto Blue Jays,89,73,0.549,731,651,80,No,No,Yes
+1988,Atlanta Braves,54,106,0.338,555,741,-186,No,No,No
+1988,Baltimore Orioles,54,107,0.335,550,789,-239,No,No,No
+1988,Boston Red Sox,89,73,0.549,813,689,124,No,No,Yes
+1988,California Angels,75,87,0.463,714,771,-57,No,No,No
+1988,Chicago White Sox,71,90,0.441,631,757,-126,No,No,No
+1988,Chicago Cubs,77,85,0.475,660,694,-34,No,No,No
+1988,Cincinnati Reds,87,74,0.540,641,596,45,No,No,No
+1988,Cleveland Indians,78,84,0.481,666,731,-65,No,No,No
+1988,Detroit Tigers,88,74,0.543,703,658,45,No,No,No
+1988,Houston Astros,82,80,0.506,617,631,-14,No,No,No
+1988,Kansas City Royals,84,77,0.522,704,648,56,No,No,No
+1988,Los Angeles Dodgers,94,67,0.584,628,544,84,Yes,Yes,Yes
+1988,Minnesota Twins,91,71,0.562,759,672,87,No,No,No
+1988,Milwaukee Brewers,87,75,0.537,682,616,66,No,No,No
+1988,Montreal Expos,81,81,0.500,628,592,36,No,No,No
+1988,New York Yankees,85,76,0.528,772,748,24,No,No,No
+1988,New York Mets,100,60,0.625,703,532,171,No,No,Yes
+1988,Oakland Athletics,104,58,0.642,800,620,180,No,Yes,Yes
+1988,Philadelphia Phillies,65,96,0.404,597,734,-137,No,No,No
+1988,Pittsburgh Pirates,85,75,0.531,651,616,35,No,No,No
+1988,San Diego Padres,83,78,0.516,594,583,11,No,No,No
+1988,Seattle Mariners,68,93,0.422,664,744,-80,No,No,No
+1988,San Francisco Giants,83,79,0.512,670,626,44,No,No,No
+1988,St. Louis Cardinals,76,86,0.469,578,633,-55,No,No,No
+1988,Texas Rangers,70,91,0.435,637,735,-98,No,No,No
+1988,Toronto Blue Jays,87,75,0.537,763,680,83,No,No,No
+1987,Atlanta Braves,69,92,0.429,747,829,-82,No,No,No
+1987,Baltimore Orioles,67,95,0.414,729,880,-151,No,No,No
+1987,Boston Red Sox,78,84,0.481,842,825,17,No,No,No
+1987,California Angels,75,87,0.463,770,803,-33,No,No,No
+1987,Chicago White Sox,77,85,0.475,748,746,2,No,No,No
+1987,Chicago Cubs,76,85,0.472,720,801,-81,No,No,No
+1987,Cincinnati Reds,84,78,0.519,783,752,31,No,No,No
+1987,Cleveland Indians,61,101,0.377,742,957,-215,No,No,No
+1987,Detroit Tigers,98,64,0.605,896,735,161,No,No,Yes
+1987,Houston Astros,76,86,0.469,648,678,-30,No,No,No
+1987,Kansas City Royals,83,79,0.512,715,691,24,No,No,No
+1987,Los Angeles Dodgers,73,89,0.451,635,675,-40,No,No,No
+1987,Minnesota Twins,85,77,0.525,786,806,-20,Yes,Yes,Yes
+1987,Milwaukee Brewers,91,71,0.562,862,817,45,No,No,No
+1987,Montreal Expos,91,71,0.562,741,720,21,No,No,No
+1987,New York Yankees,89,73,0.549,788,758,30,No,No,No
+1987,New York Mets,92,70,0.568,823,698,125,No,No,No
+1987,Oakland Athletics,81,81,0.500,806,789,17,No,No,No
+1987,Philadelphia Phillies,80,82,0.494,702,749,-47,No,No,No
+1987,Pittsburgh Pirates,80,82,0.494,723,744,-21,No,No,No
+1987,San Diego Padres,65,97,0.401,668,763,-95,No,No,No
+1987,Seattle Mariners,78,84,0.481,760,801,-41,No,No,No
+1987,San Francisco Giants,90,72,0.556,783,669,114,No,No,Yes
+1987,St. Louis Cardinals,95,67,0.586,798,693,105,No,Yes,Yes
+1987,Texas Rangers,75,87,0.463,823,849,-26,No,No,No
+1987,Toronto Blue Jays,96,66,0.593,845,655,190,No,No,No
+1986,Atlanta Braves,72,89,0.447,615,719,-104,No,No,No
+1986,Baltimore Orioles,73,89,0.451,708,760,-52,No,No,No
+1986,Boston Red Sox,95,66,0.590,794,696,98,No,Yes,Yes
+1986,California Angels,92,70,0.568,786,684,102,No,No,Yes
+1986,Chicago White Sox,72,90,0.444,644,699,-55,No,No,No
+1986,Chicago Cubs,70,90,0.438,680,781,-101,No,No,No
+1986,Cincinnati Reds,86,76,0.531,732,717,15,No,No,No
+1986,Cleveland Indians,84,78,0.519,831,841,-10,No,No,No
+1986,Detroit Tigers,87,75,0.537,798,714,84,No,No,No
+1986,Houston Astros,96,66,0.593,654,569,85,No,No,Yes
+1986,Kansas City Royals,76,86,0.469,654,673,-19,No,No,No
+1986,Los Angeles Dodgers,73,89,0.451,638,679,-41,No,No,No
+1986,Minnesota Twins,71,91,0.438,741,839,-98,No,No,No
+1986,Milwaukee Brewers,77,84,0.478,667,734,-67,No,No,No
+1986,Montreal Expos,78,83,0.484,637,688,-51,No,No,No
+1986,New York Yankees,90,72,0.556,797,738,59,No,No,No
+1986,New York Mets,108,54,0.667,783,578,205,Yes,Yes,Yes
+1986,Oakland Athletics,76,86,0.469,731,760,-29,No,No,No
+1986,Philadelphia Phillies,86,75,0.534,739,713,26,No,No,No
+1986,Pittsburgh Pirates,64,98,0.395,663,700,-37,No,No,No
+1986,San Diego Padres,74,88,0.457,656,723,-67,No,No,No
+1986,Seattle Mariners,67,95,0.414,718,835,-117,No,No,No
+1986,San Francisco Giants,83,79,0.512,698,618,80,No,No,No
+1986,St. Louis Cardinals,79,82,0.491,601,611,-10,No,No,No
+1986,Texas Rangers,87,75,0.537,771,743,28,No,No,No
+1986,Toronto Blue Jays,86,76,0.531,809,733,76,No,No,No
+1985,Atlanta Braves,66,96,0.407,632,781,-149,No,No,No
+1985,Baltimore Orioles,83,78,0.516,818,764,54,No,No,No
+1985,Boston Red Sox,81,81,0.500,800,720,80,No,No,No
+1985,California Angels,90,72,0.556,732,703,29,No,No,No
+1985,Chicago White Sox,85,77,0.525,736,720,16,No,No,No
+1985,Chicago Cubs,77,84,0.478,686,729,-43,No,No,No
+1985,Cincinnati Reds,89,72,0.553,677,666,11,No,No,No
+1985,Cleveland Indians,60,102,0.370,729,861,-132,No,No,No
+1985,Detroit Tigers,84,77,0.522,729,688,41,No,No,No
+1985,Houston Astros,83,79,0.512,706,691,15,No,No,No
+1985,Kansas City Royals,91,71,0.562,687,639,48,Yes,Yes,Yes
+1985,Los Angeles Dodgers,95,67,0.586,682,579,103,No,No,Yes
+1985,Minnesota Twins,77,85,0.475,705,782,-77,No,No,No
+1985,Milwaukee Brewers,71,90,0.441,690,802,-112,No,No,No
+1985,Montreal Expos,84,77,0.522,633,636,-3,No,No,No
+1985,New York Yankees,97,64,0.602,839,660,179,No,No,No
+1985,New York Mets,98,64,0.605,695,568,127,No,No,No
+1985,Oakland Athletics,77,85,0.475,757,787,-30,No,No,No
+1985,Philadelphia Phillies,75,87,0.463,667,673,-6,No,No,No
+1985,Pittsburgh Pirates,57,104,0.354,568,708,-140,No,No,No
+1985,San Diego Padres,83,79,0.512,650,622,28,No,No,No
+1985,Seattle Mariners,74,88,0.457,719,818,-99,No,No,No
+1985,San Francisco Giants,62,100,0.383,556,674,-118,No,No,No
+1985,St. Louis Cardinals,101,61,0.623,747,572,175,No,Yes,Yes
+1985,Texas Rangers,62,99,0.385,617,785,-168,No,No,No
+1985,Toronto Blue Jays,99,62,0.615,759,588,171,No,No,Yes
+1984,Atlanta Braves,80,82,0.494,632,655,-23,No,No,No
+1984,Baltimore Orioles,85,77,0.525,681,667,14,No,No,No
+1984,Boston Red Sox,86,76,0.531,810,764,46,No,No,No
+1984,California Angels,81,81,0.500,696,697,-1,No,No,No
+1984,Chicago White Sox,74,88,0.457,679,736,-57,No,No,No
+1984,Chicago Cubs,96,65,0.596,762,658,104,No,No,Yes
+1984,Cincinnati Reds,70,92,0.432,627,747,-120,No,No,No
+1984,Cleveland Indians,75,87,0.463,761,766,-5,No,No,No
+1984,Detroit Tigers,104,58,0.642,829,643,186,Yes,Yes,Yes
+1984,Houston Astros,80,82,0.494,693,630,63,No,No,No
+1984,Kansas City Royals,84,78,0.519,673,686,-13,No,No,Yes
+1984,Los Angeles Dodgers,79,83,0.488,580,600,-20,No,No,No
+1984,Minnesota Twins,81,81,0.500,673,675,-2,No,No,No
+1984,Milwaukee Brewers,67,94,0.416,641,734,-93,No,No,No
+1984,Montreal Expos,78,83,0.484,593,585,8,No,No,No
+1984,New York Yankees,87,75,0.537,758,679,79,No,No,No
+1984,New York Mets,90,72,0.556,652,676,-24,No,No,No
+1984,Oakland Athletics,77,85,0.475,738,796,-58,No,No,No
+1984,Philadelphia Phillies,81,81,0.500,720,690,30,No,No,No
+1984,Pittsburgh Pirates,75,87,0.463,615,567,48,No,No,No
+1984,San Diego Padres,92,70,0.568,686,634,52,No,Yes,Yes
+1984,Seattle Mariners,74,88,0.457,682,774,-92,No,No,No
+1984,San Francisco Giants,66,96,0.407,682,807,-125,No,No,No
+1984,St. Louis Cardinals,84,78,0.519,652,645,7,No,No,No
+1984,Texas Rangers,69,92,0.429,656,714,-58,No,No,No
+1984,Toronto Blue Jays,89,73,0.549,750,696,54,No,No,No
+1983,Atlanta Braves,88,74,0.543,746,640,106,No,No,No
+1983,Baltimore Orioles,98,64,0.605,799,652,147,Yes,Yes,Yes
+1983,Boston Red Sox,78,84,0.481,724,775,-51,No,No,No
+1983,California Angels,70,92,0.432,722,779,-57,No,No,No
+1983,Chicago White Sox,99,63,0.611,800,650,150,No,No,Yes
+1983,Chicago Cubs,71,91,0.438,701,719,-18,No,No,No
+1983,Cincinnati Reds,74,88,0.457,623,710,-87,No,No,No
+1983,Cleveland Indians,70,92,0.432,704,785,-81,No,No,No
+1983,Detroit Tigers,92,70,0.568,789,679,110,No,No,No
+1983,Houston Astros,85,77,0.525,643,646,-3,No,No,No
+1983,Kansas City Royals,79,83,0.488,696,767,-71,No,No,No
+1983,Los Angeles Dodgers,91,71,0.562,654,609,45,No,No,Yes
+1983,Minnesota Twins,70,92,0.432,709,822,-113,No,No,No
+1983,Milwaukee Brewers,87,75,0.537,764,708,56,No,No,No
+1983,Montreal Expos,82,80,0.506,677,646,31,No,No,No
+1983,New York Yankees,91,71,0.562,770,703,67,No,No,No
+1983,New York Mets,68,94,0.420,575,680,-105,No,No,No
+1983,Oakland Athletics,74,88,0.457,708,782,-74,No,No,No
+1983,Philadelphia Phillies,90,72,0.556,696,635,61,No,Yes,Yes
+1983,Pittsburgh Pirates,84,78,0.519,659,648,11,No,No,No
+1983,San Diego Padres,81,81,0.500,653,653,0,No,No,No
+1983,Seattle Mariners,60,102,0.370,558,740,-182,No,No,No
+1983,San Francisco Giants,79,83,0.488,687,697,-10,No,No,No
+1983,St. Louis Cardinals,79,83,0.488,679,710,-31,No,No,No
+1983,Texas Rangers,77,85,0.475,639,609,30,No,No,No
+1983,Toronto Blue Jays,89,73,0.549,795,726,69,No,No,No
+1982,Atlanta Braves,89,73,0.549,739,702,37,No,No,Yes
+1982,Baltimore Orioles,94,68,0.580,774,687,87,No,No,No
+1982,Boston Red Sox,89,73,0.549,753,713,40,No,No,No
+1982,California Angels,93,69,0.574,814,670,144,No,No,Yes
+1982,Chicago White Sox,87,75,0.537,786,710,76,No,No,No
+1982,Chicago Cubs,73,89,0.451,676,709,-33,No,No,No
+1982,Cincinnati Reds,61,101,0.377,545,661,-116,No,No,No
+1982,Cleveland Indians,78,84,0.481,683,748,-65,No,No,No
+1982,Detroit Tigers,83,79,0.512,729,685,44,No,No,No
+1982,Houston Astros,77,85,0.475,569,620,-51,No,No,No
+1982,Kansas City Royals,90,72,0.556,784,717,67,No,No,No
+1982,Los Angeles Dodgers,88,74,0.543,691,612,79,No,No,No
+1982,Minnesota Twins,60,102,0.370,657,819,-162,No,No,No
+1982,Milwaukee Brewers,95,67,0.586,891,717,174,No,Yes,Yes
+1982,Montreal Expos,86,76,0.531,697,616,81,No,No,No
+1982,New York Yankees,79,83,0.488,709,716,-7,No,No,No
+1982,New York Mets,65,97,0.401,609,723,-114,No,No,No
+1982,Oakland Athletics,68,94,0.420,691,819,-128,No,No,No
+1982,Philadelphia Phillies,89,73,0.549,664,654,10,No,No,No
+1982,Pittsburgh Pirates,84,78,0.519,724,696,28,No,No,No
+1982,San Diego Padres,81,81,0.500,675,658,17,No,No,No
+1982,Seattle Mariners,76,86,0.469,651,712,-61,No,No,No
+1982,San Francisco Giants,87,75,0.537,673,687,-14,No,No,No
+1982,St. Louis Cardinals,92,70,0.568,685,609,76,Yes,Yes,Yes
+1982,Texas Rangers,64,98,0.395,590,749,-159,No,No,No
+1982,Toronto Blue Jays,78,84,0.481,651,701,-50,No,No,No
+1981,Atlanta Braves,50,56,0.472,395,416,-21,No,No,No
+1981,Baltimore Orioles,59,46,0.562,429,437,-8,No,No,No
+1981,Boston Red Sox,59,49,0.546,519,481,38,No,No,No
+1981,California Angels,51,59,0.464,476,453,23,No,No,No
+1981,Chicago White Sox,54,52,0.509,476,423,53,No,No,No
+1981,Chicago Cubs,38,65,0.369,370,483,-113,No,No,No
+1981,Cincinnati Reds,66,42,0.611,464,440,24,No,No,No
+1981,Cleveland Indians,52,51,0.505,431,442,-11,No,No,No
+1981,Detroit Tigers,60,49,0.550,427,404,23,No,No,No
+1981,Houston Astros,61,49,0.555,394,331,63,No,No,Yes
+1981,Kansas City Royals,50,53,0.485,397,405,-8,No,No,Yes
+1981,Los Angeles Dodgers,63,47,0.573,450,356,94,Yes,Yes,Yes
+1981,Minnesota Twins,41,68,0.376,378,486,-108,No,No,No
+1981,Milwaukee Brewers,62,47,0.569,493,459,34,No,No,Yes
+1981,Montreal Expos,60,48,0.556,443,394,49,No,No,Yes
+1981,New York Yankees,59,48,0.551,421,343,78,No,Yes,Yes
+1981,New York Mets,41,62,0.398,348,432,-84,No,No,No
+1981,Oakland Athletics,64,45,0.587,458,403,55,No,No,Yes
+1981,Philadelphia Phillies,59,48,0.551,491,472,19,No,No,Yes
+1981,Pittsburgh Pirates,46,56,0.451,407,425,-18,No,No,No
+1981,San Diego Padres,41,69,0.373,382,455,-73,No,No,No
+1981,Seattle Mariners,44,65,0.404,426,521,-95,No,No,No
+1981,San Francisco Giants,56,55,0.505,427,414,13,No,No,No
+1981,St. Louis Cardinals,59,43,0.578,464,417,47,No,No,No
+1981,Texas Rangers,57,48,0.543,452,389,63,No,No,No
+1981,Toronto Blue Jays,37,69,0.349,329,466,-137,No,No,No
+1980,Atlanta Braves,81,80,0.503,630,660,-30,No,No,No
+1980,Baltimore Orioles,100,62,0.617,805,640,165,No,No,No
+1980,Boston Red Sox,83,77,0.519,757,767,-10,No,No,No
+1980,California Angels,65,95,0.406,698,797,-99,No,No,No
+1980,Chicago White Sox,70,90,0.438,587,722,-135,No,No,No
+1980,Chicago Cubs,64,98,0.395,614,728,-114,No,No,No
+1980,Cincinnati Reds,89,73,0.549,707,670,37,No,No,No
+1980,Cleveland Indians,79,81,0.494,738,807,-69,No,No,No
+1980,Detroit Tigers,84,78,0.519,830,757,73,No,No,No
+1980,Houston Astros,93,70,0.571,637,589,48,No,No,Yes
+1980,Kansas City Royals,97,65,0.599,809,694,115,No,Yes,Yes
+1980,Los Angeles Dodgers,92,71,0.564,663,591,72,No,No,No
+1980,Minnesota Twins,77,84,0.478,670,724,-54,No,No,No
+1980,Milwaukee Brewers,86,76,0.531,811,682,129,No,No,No
+1980,Montreal Expos,90,72,0.556,694,629,65,No,No,No
+1980,New York Yankees,103,59,0.636,820,662,158,No,No,Yes
+1980,New York Mets,67,95,0.414,611,702,-91,No,No,No
+1980,Oakland Athletics,83,79,0.512,686,642,44,No,No,No
+1980,Philadelphia Phillies,91,71,0.562,728,639,89,Yes,Yes,Yes
+1980,Pittsburgh Pirates,83,79,0.512,666,646,20,No,No,No
+1980,San Diego Padres,73,89,0.451,591,654,-63,No,No,No
+1980,Seattle Mariners,59,103,0.364,610,793,-183,No,No,No
+1980,San Francisco Giants,75,86,0.466,573,634,-61,No,No,No
+1980,St. Louis Cardinals,74,88,0.457,738,710,28,No,No,No
+1980,Texas Rangers,76,85,0.472,756,752,4,No,No,No
+1980,Toronto Blue Jays,67,95,0.414,624,762,-138,No,No,No
