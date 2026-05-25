@@ -1,0 +1,27 @@
+CREATE TABLE fielding (
+    player_id VARCHAR(9),
+    year_id INTEGER,
+    stint INTEGER,
+    team_id VARCHAR(3),
+    lg_id VARCHAR(10),
+    pos VARCHAR(2),
+    g INTEGER,
+    gs INTEGER,
+    inn_outs INTEGER,
+    po INTEGER,
+    a INTEGER,
+    e INTEGER,
+    dp INTEGER,
+    pb INTEGER,
+    wp INTEGER,
+    sb INTEGER,
+    cs INTEGER,
+    zr DECIMAL(5, 3),
+    PRIMARY KEY (player_id, year_id, stint, pos),
+    FOREIGN KEY (player_id) REFERENCES people(player_id)
+);
+
+CREATE INDEX idx_fielding_player ON fielding(player_id);
+CREATE INDEX idx_fielding_year ON fielding(year_id);
+CREATE INDEX idx_fielding_team ON fielding(team_id);
+CREATE INDEX idx_fielding_pos ON fielding(pos);

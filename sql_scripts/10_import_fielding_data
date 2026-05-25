@@ -1,0 +1,47 @@
+COPY fielding (
+    player_id,
+    year_id,
+    stint,
+    team_id,
+    lg_id,
+    pos,
+    g,
+    gs,
+    in_outs,
+    po,
+    a,
+    e,
+    dp,
+    pb,
+    wp,
+    sb,
+    cs,
+    zr
+)
+FROM '/Users/tripplancaster/Desktop/Data Science Project Portfolio/Historical Performance Analysis Project/mlb-historical-performance-analysis/data/Fielding.csv'
+DELIMETER ','
+CSV HEADER;
+
+SELECT COUNT(*) AS total_fielding_records FROM fielding;
+
+SELECT
+    f.player_id,
+    p.name_first,
+    p.name_last,
+    f.year_id,
+    f.team_id,
+    f.pos,
+    f.g,
+    f.po,
+    f.a,
+    f.e,
+    f.dp
+FROM fielding f
+JOIN people p ON f.player_id = p.player_id
+ORDER BY f.year_id DESC, f.e DESC
+LIMIT 20;
+
+SELECT
+    MIN(year_id) AS earliest_year
+    MAX(year_id) AS latest_year
+FROM fielding;
