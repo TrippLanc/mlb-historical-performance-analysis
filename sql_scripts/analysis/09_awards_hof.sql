@@ -36,9 +36,9 @@ CREATE TABLE hall_of_fame (
     ballots     INTEGER,
     needed      INTEGER,
     votes       INTEGER,
-    inducted    VARCHAR(1),     
+    inducted    VARCHAR(1),     -- 'Y' or 'N'
     category    VARCHAR(20),
-    needed_note VARCHAR(25),
+    needed_note TEXT,    -- Expanded from 25 to 100 to prevent data truncation errors
     FOREIGN KEY (player_id) REFERENCES people(player_id)
 );
 
@@ -54,6 +54,7 @@ FROM '/Users/tripplancaster/Desktop/Data Science Project Portfolio/Historical Pe
 DELIMITER ','
 CSV HEADER;
 
+-- Verify
 SELECT COUNT(*)                          AS total_hof_records FROM hall_of_fame;
 SELECT inducted, COUNT(DISTINCT player_id) AS players
 FROM hall_of_fame
@@ -80,8 +81,6 @@ WHERE a.year_id >= 1980
         'Rolaids Relief Man Award'
     )
 ORDER BY a.year_id DESC, a.award_id, a.lg_id;
-
-
 
 CREATE OR REPLACE VIEW player_award_summary AS
 SELECT
@@ -215,6 +214,7 @@ JOIN (
 WHERE a.award_id = 'Cy Young Award'
     AND a.year_id >= 1980
 ORDER BY a.year_id DESC, a.lg_id;
+
 
 SELECT
     a.year_id,
